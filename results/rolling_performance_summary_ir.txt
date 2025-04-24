@@ -1,0 +1,31 @@
+# Rolling Window Strategy Performance Summary (Optimized for Information Ratio)
+
+## Test Information
+Test Period: 2021-04-21 ~ 2025-04-21
+Initial Capital: $10,000.00
+Final Capital (TQQQ Buy & Hold - Overall): $8,454.74
+Final Capital (Strategy - Overall): $186,604.35
+
+## Rolling Window Performance (1yr window, 6mo step)
+Average Information Ratio (Strategy vs TQQQ): 0.796
+Average Annualized Excess Return (Strategy vs TQQQ): 56.27%
+Average Tracking Error: 54.06%
+----
+Average Annual Return (Strategy): 106.34%
+Average Annual Return (TQQQ): 20.11%
+Std Dev Annual Return (Strategy): 39.98%
+Average Sharpe Ratio (Strategy, risk_free=2%): 2.82
+Average Max Drawdown (Strategy): -23.11%
+Window Outperformance Rate (Strategy vs TQQQ): 71.43%
+Average Trades per Window: 67.86
+Optimization Objective Value (Avg IR - Trade Penalty): 0.1175
+
+## Best Parameters Found
+big_move_threshold: 0.6900
+direction_threshold: 0.4000
+lookback_years: 4
+min_holding_days: 2
+price_change_threshold: 0.0650
+switch_threshold: 0.3600
+vix_ratio_threshold: 1.3600
+vix_threshold: 31.3000

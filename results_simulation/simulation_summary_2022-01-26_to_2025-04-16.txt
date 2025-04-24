@@ -1,0 +1,33 @@
+# Simulation Performance Summary
+
+## Simulation Period: 2022-01-26 to 2025-04-16
+
+## Performance Metrics
+- Test Period: 2022-01-26 ~ 2025-04-15
+- Days: 1,174
+- Years: 3.22
+- Initial Capital: 10,000
+- Final Tqqq Capital: $8,859.54
+- Final Strategy Capital: $76,259.35
+- Tqqq Total Return: -11.40%
+- Strategy Total Return: 662.59%
+- Tqqq Annual Return: -3.69%
+- Strategy Annual Return: 88.06%
+- Tqqq Volatility: 0.74
+- Strategy Volatility: 0.45
+- Tqqq Sharpe: -0.08
+- Strategy Sharpe: 1.90
+- Tqqq Max Drawdown: -74.82%
+- Strategy Max Drawdown: -28.91%
+- Trade Count: 199
+- Total Fee: $711.37
+
+## Applied Parameters (from loaded file)
+- big_move_threshold: 0.6900
+- direction_threshold: 0.4000
+- lookback_years: 4
+- min_holding_days: 2
+- price_change_threshold: 0.0650
+- switch_threshold: 0.3600
+- vix_ratio_threshold: 1.3600
+- vix_threshold: 31.3000

@@ -1,0 +1,1588 @@
+2025-04-23 14:47:58,434 - INFO - Starting simulation for period: 2022-07-01 to 2025-04-16
+2025-04-23 14:47:58,434 - INFO - Loading models, parameters, and feature data...
+2025-04-23 14:47:59,405 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 14:47:59,407 - INFO - Found rolling parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_rolling.json
+2025-04-23 14:47:59,408 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_rolling.json
+2025-04-23 14:47:59,444 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\data\tqqq_features.csv: (2590, 46)
+2025-04-23 14:47:59,446 - INFO - Filtering data for the specified period...
+2025-04-23 14:47:59,446 - WARNING - Feature data index is timezone-aware. Converting to naive for filtering.
+2025-04-23 14:47:59,447 - INFO - Data filtered: (700, 46) rows from 2022-07-01 04:00:00 to 2025-04-15 04:00:00
+2025-04-23 14:47:59,447 - INFO - Detecting volatility...
+2025-04-23 14:48:13,390 - WARNING - Could not import from optimize_parameters. Trying implement_strategy...
+2025-04-23 14:48:13,390 - INFO - Imported functions from implement_strategy.
+2025-04-23 14:48:13,393 - INFO - Starting simulation for period: 2022-07-01 to 2025-04-16
+2025-04-23 14:48:13,393 - INFO - Loading models, parameters, and feature data...
+2025-04-23 14:48:13,626 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 14:48:13,627 - INFO - Found rolling parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_rolling.json
+2025-04-23 14:48:13,628 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_rolling.json
+2025-04-23 14:48:13,653 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\data\tqqq_features.csv: (2590, 46)
+2025-04-23 14:48:13,655 - INFO - Filtering data for the specified period...
+2025-04-23 14:48:13,655 - WARNING - Feature data index is timezone-aware. Converting to naive for filtering.
+2025-04-23 14:48:13,657 - INFO - Data filtered: (700, 46) rows from 2022-07-01 04:00:00 to 2025-04-15 04:00:00
+2025-04-23 14:48:13,657 - INFO - Detecting volatility...
+2025-04-23 14:48:13,660 - INFO - 감지된 고변동성 날짜 수: 15
+2025-04-23 14:48:13,660 - INFO - 감지된 변동성 기간 수: 13
+2025-04-23 14:48:13,661 - INFO - Implementing switching strategy...
+2025-04-23 14:49:53,394 - WARNING - Could not import from optimize_parameters. Trying implement_strategy...
+2025-04-23 14:49:53,395 - INFO - Imported functions from implement_strategy.
+2025-04-23 14:50:02,383 - WARNING - Could not import from optimize_parameters. Trying implement_strategy...
+2025-04-23 14:50:02,384 - INFO - Imported functions from implement_strategy.
+2025-04-23 14:50:02,386 - INFO - Starting simulation for period: 2022-07-01 to 2025-04-16
+2025-04-23 14:50:02,386 - INFO - Loading models, parameters, and feature data...
+2025-04-23 14:50:02,632 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 14:50:02,633 - INFO - Found rolling parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_rolling.json
+2025-04-23 14:50:02,633 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_rolling.json
+2025-04-23 14:50:02,657 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\data\tqqq_features.csv: (2590, 46)
+2025-04-23 14:50:02,659 - INFO - Filtering data for the specified period...
+2025-04-23 14:50:02,660 - WARNING - Feature data index is timezone-aware. Converting to naive for filtering.
+2025-04-23 14:50:02,661 - INFO - Data filtered: (700, 46) rows from 2022-07-01 04:00:00 to 2025-04-15 04:00:00
+2025-04-23 14:50:02,661 - INFO - Detecting volatility...
+2025-04-23 14:50:02,665 - INFO - 감지된 고변동성 날짜 수: 15
+2025-04-23 14:50:02,665 - INFO - 감지된 변동성 기간 수: 13
+2025-04-23 14:50:02,665 - INFO - Implementing switching strategy...
+2025-04-23 14:50:02,666 - INFO - TQQQ/SQQQ 전환 전략 구현 중...
+2025-04-23 14:51:58,516 - WARNING - Could not import from optimize_parameters. Trying implement_strategy...
+2025-04-23 14:51:58,516 - INFO - Imported functions from implement_strategy.
+2025-04-23 14:52:04,071 - WARNING - Could not import from optimize_parameters. Trying implement_strategy...
+2025-04-23 14:52:04,071 - INFO - Imported functions from implement_strategy.
+2025-04-23 14:52:04,073 - INFO - Starting simulation for period: 2022-07-01 to 2025-04-16
+2025-04-23 14:52:04,073 - INFO - Loading models, parameters, and feature data...
+2025-04-23 14:52:04,308 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 14:52:04,308 - INFO - Renamed model keys for compatibility with implement_switching_strategy.
+2025-04-23 14:52:04,309 - INFO - Found rolling parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_rolling.json
+2025-04-23 14:52:04,309 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_rolling.json
+2025-04-23 14:52:04,334 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\data\tqqq_features.csv: (2590, 46)
+2025-04-23 14:52:04,336 - INFO - Filtering data for the specified period...
+2025-04-23 14:52:04,336 - WARNING - Feature data index is timezone-aware. Converting to naive for filtering.
+2025-04-23 14:52:04,337 - INFO - Data filtered: (700, 46) rows from 2022-07-01 04:00:00 to 2025-04-15 04:00:00
+2025-04-23 14:52:04,338 - INFO - Detecting volatility...
+2025-04-23 14:52:04,341 - INFO - 감지된 고변동성 날짜 수: 15
+2025-04-23 14:52:04,342 - INFO - 감지된 변동성 기간 수: 13
+2025-04-23 14:52:04,342 - INFO - Implementing switching strategy...
+2025-04-23 14:52:04,342 - INFO - TQQQ/SQQQ 전환 전략 구현 중...
+2025-04-23 14:52:04,433 - INFO - 총 매매 신호 변경 횟수: 92
+2025-04-23 14:52:04,434 - INFO - TQQQ 매수 신호 (1): 165일
+2025-04-23 14:52:04,434 - INFO - 현금 보유 신호 (0): 507일
+2025-04-23 14:52:04,435 - INFO - SQQQ 매수 신호 (-1): 28일
+2025-04-23 14:52:04,435 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 14:52:04,435 - INFO - 전략 백테스팅 중...
+2025-04-23 14:52:04,440 - INFO - 
+백테스팅 결과:
+2025-04-23 14:52:04,440 - INFO - 테스트 기간: 2022-07-01 ~ 2025-04-15 (1019일, 2.79년)
+2025-04-23 14:52:04,441 - INFO - 초기 자본금: $10,000.00
+2025-04-23 14:52:04,441 - INFO - 최종 자본금 (TQQQ Buy & Hold): $19,306.46
+2025-04-23 14:52:04,442 - INFO - 최종 자본금 (전략): $16,515.66
+2025-04-23 14:52:04,442 - INFO - 총 수익률 (TQQQ Buy & Hold): 93.06%
+2025-04-23 14:52:04,442 - INFO - 총 수익률 (전략): 65.16%
+2025-04-23 14:52:04,442 - INFO - 연간 수익률 (TQQQ Buy & Hold): 26.57%
+2025-04-23 14:52:04,442 - INFO - 연간 수익률 (전략): 19.69%
+2025-04-23 14:52:04,443 - INFO - 변동성 (TQQQ Buy & Hold): 67.94%
+2025-04-23 14:52:04,443 - INFO - 변동성 (전략): 42.41%
+2025-04-23 14:52:04,443 - INFO - 샤프 비율 (TQQQ Buy & Hold): 0.36
+2025-04-23 14:52:04,443 - INFO - 샤프 비율 (전략): 0.42
+2025-04-23 14:52:04,444 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -58.23%
+2025-04-23 14:52:04,444 - INFO - 최대 낙폭 (전략): -33.64%
+2025-04-23 14:52:04,444 - INFO - 총 거래 횟수: 92
+2025-04-23 14:52:04,445 - INFO - 총 수수료: $120.70
+2025-04-23 14:52:04,445 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 14:52:04,446 - INFO - Test Period: 2022-07-01 ~ 2025-04-15
+2025-04-23 14:52:04,446 - INFO - Days: 1,019
+2025-04-23 14:52:04,446 - INFO - Years: 2.79
+2025-04-23 14:52:04,446 - INFO - Initial Capital: 10,000
+2025-04-23 14:52:04,447 - INFO - Final Tqqq Capital: $19,306.46
+2025-04-23 14:52:04,447 - INFO - Final Strategy Capital: $16,515.66
+2025-04-23 14:52:04,447 - INFO - Tqqq Total Return: 93.06%
+2025-04-23 14:52:04,447 - INFO - Strategy Total Return: 65.16%
+2025-04-23 14:52:04,447 - INFO - Tqqq Annual Return: 26.57%
+2025-04-23 14:52:04,447 - INFO - Strategy Annual Return: 19.69%
+2025-04-23 14:52:04,447 - INFO - Tqqq Volatility: 0.68
+2025-04-23 14:52:04,448 - INFO - Strategy Volatility: 0.42
+2025-04-23 14:52:04,448 - INFO - Tqqq Sharpe: 0.36
+2025-04-23 14:52:04,448 - INFO - Strategy Sharpe: 0.42
+2025-04-23 14:52:04,448 - INFO - Tqqq Max Drawdown: -58.23%
+2025-04-23 14:52:04,448 - INFO - Strategy Max Drawdown: -33.64%
+2025-04-23 14:52:04,448 - INFO - Trade Count: 92
+2025-04-23 14:52:04,448 - INFO - Total Fee: $120.70
+2025-04-23 14:52:04,448 - INFO - ---------------------------------
+2025-04-23 14:52:04,476 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\simulation_details_2022-07-01_to_2025-04-16.csv
+2025-04-23 14:52:04,476 - INFO - Simulation finished for period: 2022-07-01 to 2025-04-16
+2025-04-23 15:03:25,495 - INFO - Starting simulation for period: 2022-07-01 to 2025-04-16
+2025-04-23 15:03:25,495 - INFO - Loading models, parameters, and feature data...
+2025-04-23 15:03:26,535 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 15:03:26,536 - INFO - Found rolling parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_rolling.json
+2025-04-23 15:03:26,538 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_rolling.json
+2025-04-23 15:03:26,576 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 15:03:26,577 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\data\tqqq_features.csv: (2590, 46)
+2025-04-23 15:03:26,578 - INFO - Filtering data for the specified period...
+2025-04-23 15:03:26,579 - INFO - Data filtered: (700, 46) rows from 2022-07-01 04:00:00 to 2025-04-15 04:00:00
+2025-04-23 15:03:26,579 - INFO - Detecting volatility...
+2025-04-23 15:14:36,108 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 15:14:44,499 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 15:14:44,501 - INFO - Starting simulation for period: 2022-07-01 to 2025-04-16
+2025-04-23 15:14:44,501 - INFO - Loading models, parameters, and feature data...
+2025-04-23 15:14:44,753 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 15:14:44,753 - ERROR - Optimized parameters file not found. Looked for: final_optimized_params_ir.json, final_optimized_params_rolling.json, final_optimized_params.json
+2025-04-23 15:14:44,755 - ERROR - Failed to load necessary data/models for simulation. Exiting.
+2025-04-23 15:15:41,074 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 15:15:41,077 - INFO - Starting simulation for period: 2022-07-01 to 2025-04-16
+2025-04-23 15:15:41,077 - INFO - Loading models, parameters, and feature data...
+2025-04-23 15:15:41,320 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 15:15:41,322 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:15:41,333 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:15:41,372 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 15:15:41,372 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\data\tqqq_features.csv: (2590, 46)
+2025-04-23 15:15:41,374 - INFO - Filtering data for the specified period...
+2025-04-23 15:15:41,375 - INFO - Data filtered: (700, 46) rows from 2022-07-01 04:00:00 to 2025-04-15 04:00:00
+2025-04-23 15:15:41,375 - INFO - Detecting volatility...
+2025-04-23 15:15:41,378 - INFO - 감지된 고변동성 날짜 수: 68
+2025-04-23 15:15:41,378 - INFO - 감지된 변동성 기간 수: 57
+2025-04-23 15:15:41,378 - INFO - Implementing switching strategy...
+2025-04-23 15:18:53,990 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 15:19:03,079 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 15:19:03,081 - INFO - Starting simulation for period: 2022-07-01 to 2025-04-16
+2025-04-23 15:19:03,081 - INFO - Loading models, parameters, and feature data...
+2025-04-23 15:19:03,322 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 15:19:03,323 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:19:03,324 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:19:03,360 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 15:19:03,360 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\data\tqqq_features.csv: (2590, 46)
+2025-04-23 15:19:03,362 - INFO - Filtering data for the specified period...
+2025-04-23 15:19:03,362 - INFO - Data filtered: (700, 46) rows from 2022-07-01 04:00:00 to 2025-04-15 04:00:00
+2025-04-23 15:19:03,363 - INFO - Detecting volatility...
+2025-04-23 15:19:03,366 - INFO - 감지된 고변동성 날짜 수: 68
+2025-04-23 15:19:03,366 - INFO - 감지된 변동성 기간 수: 57
+2025-04-23 15:19:03,367 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 15:19:03,367 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 15:19:03,367 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 15:19:03,367 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 15:19:03,431 - INFO - Strategy implemented. Signals: TQQQ(431), Cash(253), SQQQ(16)
+2025-04-23 15:19:03,432 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 15:19:03,433 - INFO - 전략 백테스팅 중...
+2025-04-23 15:19:03,437 - INFO - 
+백테스팅 결과:
+2025-04-23 15:19:03,437 - INFO - 테스트 기간: 2022-07-01 ~ 2025-04-15 (1019일, 2.79년)
+2025-04-23 15:19:03,437 - INFO - 초기 자본금: $10,000.00
+2025-04-23 15:19:03,438 - INFO - 최종 자본금 (TQQQ Buy & Hold): $19,306.46
+2025-04-23 15:19:03,438 - INFO - 최종 자본금 (전략): $59,186.79
+2025-04-23 15:19:03,438 - INFO - 총 수익률 (TQQQ Buy & Hold): 93.06%
+2025-04-23 15:19:03,438 - INFO - 총 수익률 (전략): 491.87%
+2025-04-23 15:19:03,439 - INFO - 연간 수익률 (TQQQ Buy & Hold): 26.57%
+2025-04-23 15:19:03,439 - INFO - 연간 수익률 (전략): 89.06%
+2025-04-23 15:19:03,439 - INFO - 변동성 (TQQQ Buy & Hold): 67.94%
+2025-04-23 15:19:03,439 - INFO - 변동성 (전략): 47.46%
+2025-04-23 15:19:03,439 - INFO - 샤프 비율 (TQQQ Buy & Hold): 0.36
+2025-04-23 15:19:03,439 - INFO - 샤프 비율 (전략): 1.83
+2025-04-23 15:19:03,440 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -58.23%
+2025-04-23 15:19:03,440 - INFO - 최대 낙폭 (전략): -28.91%
+2025-04-23 15:19:03,440 - INFO - 총 거래 횟수: 179
+2025-04-23 15:19:03,440 - INFO - 총 수수료: $534.66
+2025-04-23 15:19:03,441 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 15:19:03,441 - INFO - Test Period: 2022-07-01 ~ 2025-04-15
+2025-04-23 15:19:03,441 - INFO - Days: 1,019
+2025-04-23 15:19:03,441 - INFO - Years: 2.79
+2025-04-23 15:19:03,441 - INFO - Initial Capital: 10,000
+2025-04-23 15:19:03,442 - INFO - Final Tqqq Capital: $19,306.46
+2025-04-23 15:19:03,442 - INFO - Final Strategy Capital: $59,186.79
+2025-04-23 15:19:03,442 - INFO - Tqqq Total Return: 93.06%
+2025-04-23 15:19:03,442 - INFO - Strategy Total Return: 491.87%
+2025-04-23 15:19:03,442 - INFO - Tqqq Annual Return: 26.57%
+2025-04-23 15:19:03,442 - INFO - Strategy Annual Return: 89.06%
+2025-04-23 15:19:03,443 - INFO - Tqqq Volatility: 0.68
+2025-04-23 15:19:03,443 - INFO - Strategy Volatility: 0.47
+2025-04-23 15:19:03,443 - INFO - Tqqq Sharpe: 0.36
+2025-04-23 15:19:03,443 - INFO - Strategy Sharpe: 1.83
+2025-04-23 15:19:03,443 - INFO - Tqqq Max Drawdown: -58.23%
+2025-04-23 15:19:03,443 - INFO - Strategy Max Drawdown: -28.91%
+2025-04-23 15:19:03,444 - INFO - Trade Count: 179
+2025-04-23 15:19:03,444 - INFO - Total Fee: $534.66
+2025-04-23 15:19:03,444 - INFO - ---------------------------------
+2025-04-23 15:19:03,477 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\simulation_details_2022-07-01_to_2025-04-16.csv
+2025-04-23 15:19:03,477 - INFO - Simulation finished for period: 2022-07-01 to 2025-04-16
+2025-04-23 15:21:35,767 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 15:21:35,770 - INFO - Starting simulation for period: 2022-07-01 to 2025-04-16
+2025-04-23 15:21:35,770 - INFO - Loading models, parameters, and feature data...
+2025-04-23 15:21:36,034 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 15:21:36,035 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:21:36,037 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:21:36,073 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 15:21:36,074 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\data\tqqq_features.csv: (2590, 46)
+2025-04-23 15:21:36,075 - INFO - Filtering data for the specified period...
+2025-04-23 15:21:36,076 - INFO - Data filtered: (700, 46) rows from 2022-07-01 04:00:00 to 2025-04-15 04:00:00
+2025-04-23 15:21:36,077 - INFO - Detecting volatility...
+2025-04-23 15:21:36,080 - INFO - 감지된 고변동성 날짜 수: 68
+2025-04-23 15:21:36,080 - INFO - 감지된 변동성 기간 수: 57
+2025-04-23 15:21:36,081 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 15:21:36,081 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 15:21:36,081 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 15:21:36,082 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 15:21:36,147 - INFO - Strategy implemented. Signals: TQQQ(431), Cash(253), SQQQ(16)
+2025-04-23 15:21:36,148 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 15:21:36,149 - INFO - 전략 백테스팅 중...
+2025-04-23 15:21:36,152 - INFO - 
+백테스팅 결과:
+2025-04-23 15:21:36,153 - INFO - 테스트 기간: 2022-07-01 ~ 2025-04-15 (1019일, 2.79년)
+2025-04-23 15:21:36,153 - INFO - 초기 자본금: $10,000.00
+2025-04-23 15:21:36,153 - INFO - 최종 자본금 (TQQQ Buy & Hold): $19,306.46
+2025-04-23 15:21:36,154 - INFO - 최종 자본금 (전략): $59,186.79
+2025-04-23 15:21:36,154 - INFO - 총 수익률 (TQQQ Buy & Hold): 93.06%
+2025-04-23 15:21:36,154 - INFO - 총 수익률 (전략): 491.87%
+2025-04-23 15:21:36,154 - INFO - 연간 수익률 (TQQQ Buy & Hold): 26.57%
+2025-04-23 15:21:36,154 - INFO - 연간 수익률 (전략): 89.06%
+2025-04-23 15:21:36,155 - INFO - 변동성 (TQQQ Buy & Hold): 67.94%
+2025-04-23 15:21:36,155 - INFO - 변동성 (전략): 47.46%
+2025-04-23 15:21:36,155 - INFO - 샤프 비율 (TQQQ Buy & Hold): 0.36
+2025-04-23 15:21:36,155 - INFO - 샤프 비율 (전략): 1.83
+2025-04-23 15:21:36,155 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -58.23%
+2025-04-23 15:21:36,155 - INFO - 최대 낙폭 (전략): -28.91%
+2025-04-23 15:21:36,156 - INFO - 총 거래 횟수: 179
+2025-04-23 15:21:36,156 - INFO - 총 수수료: $534.66
+2025-04-23 15:21:36,157 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 15:21:36,157 - INFO - Test Period: 2022-07-01 ~ 2025-04-15
+2025-04-23 15:21:36,157 - INFO - Days: 1,019
+2025-04-23 15:21:36,158 - INFO - Years: 2.79
+2025-04-23 15:21:36,158 - INFO - Initial Capital: 10,000
+2025-04-23 15:21:36,158 - INFO - Final Tqqq Capital: $19,306.46
+2025-04-23 15:21:36,158 - INFO - Final Strategy Capital: $59,186.79
+2025-04-23 15:21:36,158 - INFO - Tqqq Total Return: 93.06%
+2025-04-23 15:21:36,158 - INFO - Strategy Total Return: 491.87%
+2025-04-23 15:21:36,158 - INFO - Tqqq Annual Return: 26.57%
+2025-04-23 15:21:36,159 - INFO - Strategy Annual Return: 89.06%
+2025-04-23 15:21:36,159 - INFO - Tqqq Volatility: 0.68
+2025-04-23 15:21:36,159 - INFO - Strategy Volatility: 0.47
+2025-04-23 15:21:36,159 - INFO - Tqqq Sharpe: 0.36
+2025-04-23 15:21:36,159 - INFO - Strategy Sharpe: 1.83
+2025-04-23 15:21:36,159 - INFO - Tqqq Max Drawdown: -58.23%
+2025-04-23 15:21:36,159 - INFO - Strategy Max Drawdown: -28.91%
+2025-04-23 15:21:36,159 - INFO - Trade Count: 179
+2025-04-23 15:21:36,160 - INFO - Total Fee: $534.66
+2025-04-23 15:21:36,160 - INFO - ---------------------------------
+2025-04-23 15:21:36,160 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 15:21:37,720 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_summary_2022-07-01_to_2025-04-16.txt
+2025-04-23 15:21:37,748 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_details_2022-07-01_to_2025-04-16.csv
+2025-04-23 15:21:37,749 - INFO - Simulation finished for period: 2022-07-01 to 2025-04-16
+2025-04-23 15:22:33,011 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 15:22:33,014 - INFO - Starting simulation for period: 2023-07-01 to 2025-04-16
+2025-04-23 15:22:33,014 - INFO - Loading models, parameters, and feature data...
+2025-04-23 15:22:33,301 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 15:22:33,302 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:22:33,302 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:22:33,327 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 15:22:33,327 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\data\tqqq_features.csv: (2590, 46)
+2025-04-23 15:22:33,329 - INFO - Filtering data for the specified period...
+2025-04-23 15:22:33,330 - INFO - Data filtered: (449, 46) rows from 2023-07-03 04:00:00 to 2025-04-15 04:00:00
+2025-04-23 15:22:33,330 - INFO - Detecting volatility...
+2025-04-23 15:22:33,334 - INFO - 감지된 고변동성 날짜 수: 34
+2025-04-23 15:22:33,335 - INFO - 감지된 변동성 기간 수: 29
+2025-04-23 15:22:33,335 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 15:22:33,335 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 15:22:33,336 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 15:22:33,336 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 15:22:33,391 - INFO - Strategy implemented. Signals: TQQQ(313), Cash(126), SQQQ(10)
+2025-04-23 15:22:33,391 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 15:22:33,392 - INFO - 전략 백테스팅 중...
+2025-04-23 15:22:33,396 - INFO - 
+백테스팅 결과:
+2025-04-23 15:22:33,396 - INFO - 테스트 기간: 2023-07-03 ~ 2025-04-15 (652일, 1.79년)
+2025-04-23 15:22:33,396 - INFO - 초기 자본금: $10,000.00
+2025-04-23 15:22:33,397 - INFO - 최종 자본금 (TQQQ Buy & Hold): $11,246.85
+2025-04-23 15:22:33,397 - INFO - 최종 자본금 (전략): $21,209.81
+2025-04-23 15:22:33,398 - INFO - 총 수익률 (TQQQ Buy & Hold): 12.47%
+2025-04-23 15:22:33,398 - INFO - 총 수익률 (전략): 112.10%
+2025-04-23 15:22:33,398 - INFO - 연간 수익률 (TQQQ Buy & Hold): 6.80%
+2025-04-23 15:22:33,398 - INFO - 연간 수익률 (전략): 52.34%
+2025-04-23 15:22:33,399 - INFO - 변동성 (TQQQ Buy & Hold): 63.59%
+2025-04-23 15:22:33,399 - INFO - 변동성 (전략): 52.65%
+2025-04-23 15:22:33,399 - INFO - 샤프 비율 (TQQQ Buy & Hold): 0.08
+2025-04-23 15:22:33,399 - INFO - 샤프 비율 (전략): 0.96
+2025-04-23 15:22:33,400 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -58.04%
+2025-04-23 15:22:33,400 - INFO - 최대 낙폭 (전략): -28.91%
+2025-04-23 15:22:33,400 - INFO - 총 거래 횟수: 103
+2025-04-23 15:22:33,401 - INFO - 총 수수료: $149.24
+2025-04-23 15:22:33,402 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 15:22:33,402 - INFO - Test Period: 2023-07-03 ~ 2025-04-15
+2025-04-23 15:22:33,402 - INFO - Days: 652
+2025-04-23 15:22:33,402 - INFO - Years: 1.79
+2025-04-23 15:22:33,402 - INFO - Initial Capital: 10,000
+2025-04-23 15:22:33,403 - INFO - Final Tqqq Capital: $11,246.85
+2025-04-23 15:22:33,403 - INFO - Final Strategy Capital: $21,209.81
+2025-04-23 15:22:33,403 - INFO - Tqqq Total Return: 12.47%
+2025-04-23 15:22:33,403 - INFO - Strategy Total Return: 112.10%
+2025-04-23 15:22:33,403 - INFO - Tqqq Annual Return: 6.80%
+2025-04-23 15:22:33,403 - INFO - Strategy Annual Return: 52.34%
+2025-04-23 15:22:33,403 - INFO - Tqqq Volatility: 0.64
+2025-04-23 15:22:33,403 - INFO - Strategy Volatility: 0.53
+2025-04-23 15:22:33,404 - INFO - Tqqq Sharpe: 0.08
+2025-04-23 15:22:33,404 - INFO - Strategy Sharpe: 0.96
+2025-04-23 15:22:33,404 - INFO - Tqqq Max Drawdown: -58.04%
+2025-04-23 15:22:33,404 - INFO - Strategy Max Drawdown: -28.91%
+2025-04-23 15:22:33,404 - INFO - Trade Count: 103
+2025-04-23 15:22:33,404 - INFO - Total Fee: $149.24
+2025-04-23 15:22:33,404 - INFO - ---------------------------------
+2025-04-23 15:22:33,404 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 15:22:34,992 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_summary_2023-07-01_to_2025-04-16.txt
+2025-04-23 15:22:35,016 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_details_2023-07-01_to_2025-04-16.csv
+2025-04-23 15:22:35,017 - INFO - Simulation finished for period: 2023-07-01 to 2025-04-16
+2025-04-23 15:23:00,841 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 15:23:00,842 - INFO - Starting simulation for period: 2019-07-01 to 2025-04-16
+2025-04-23 15:23:00,842 - INFO - Loading models, parameters, and feature data...
+2025-04-23 15:23:01,090 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 15:23:01,092 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:23:01,092 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:23:01,116 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 15:23:01,116 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\data\tqqq_features.csv: (2590, 46)
+2025-04-23 15:23:01,118 - INFO - Filtering data for the specified period...
+2025-04-23 15:23:01,119 - INFO - Data filtered: (1457, 46) rows from 2019-07-01 04:00:00 to 2025-04-15 04:00:00
+2025-04-23 15:23:01,119 - INFO - Detecting volatility...
+2025-04-23 15:23:01,123 - INFO - 감지된 고변동성 날짜 수: 185
+2025-04-23 15:23:01,123 - INFO - 감지된 변동성 기간 수: 142
+2025-04-23 15:23:01,124 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 15:23:01,124 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 15:23:01,124 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 15:23:01,124 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 15:23:01,220 - INFO - Strategy implemented. Signals: TQQQ(773), Cash(648), SQQQ(36)
+2025-04-23 15:23:01,221 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 15:23:01,221 - INFO - 전략 백테스팅 중...
+2025-04-23 15:23:01,226 - INFO - 
+백테스팅 결과:
+2025-04-23 15:23:01,226 - INFO - 테스트 기간: 2019-07-01 ~ 2025-04-15 (2115일, 5.79년)
+2025-04-23 15:23:01,226 - INFO - 초기 자본금: $10,000.00
+2025-04-23 15:23:01,227 - INFO - 최종 자본금 (TQQQ Buy & Hold): $29,335.50
+2025-04-23 15:23:01,227 - INFO - 최종 자본금 (전략): $883,951.45
+2025-04-23 15:23:01,227 - INFO - 총 수익률 (TQQQ Buy & Hold): 193.36%
+2025-04-23 15:23:01,227 - INFO - 총 수익률 (전략): 8739.51%
+2025-04-23 15:23:01,228 - INFO - 연간 수익률 (TQQQ Buy & Hold): 20.41%
+2025-04-23 15:23:01,228 - INFO - 연간 수익률 (전략): 116.72%
+2025-04-23 15:23:01,228 - INFO - 변동성 (TQQQ Buy & Hold): 75.48%
+2025-04-23 15:23:01,228 - INFO - 변동성 (전략): 41.27%
+2025-04-23 15:23:01,228 - INFO - 샤프 비율 (TQQQ Buy & Hold): 0.24
+2025-04-23 15:23:01,229 - INFO - 샤프 비율 (전략): 2.78
+2025-04-23 15:23:01,229 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -81.66%
+2025-04-23 15:23:01,229 - INFO - 최대 낙폭 (전략): -39.40%
+2025-04-23 15:23:01,229 - INFO - 총 거래 횟수: 446
+2025-04-23 15:23:01,230 - INFO - 총 수수료: $9,363.65
+2025-04-23 15:23:01,230 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 15:23:01,230 - INFO - Test Period: 2019-07-01 ~ 2025-04-15
+2025-04-23 15:23:01,230 - INFO - Days: 2,115
+2025-04-23 15:23:01,231 - INFO - Years: 5.79
+2025-04-23 15:23:01,231 - INFO - Initial Capital: 10,000
+2025-04-23 15:23:01,231 - INFO - Final Tqqq Capital: $29,335.50
+2025-04-23 15:23:01,231 - INFO - Final Strategy Capital: $883,951.45
+2025-04-23 15:23:01,231 - INFO - Tqqq Total Return: 193.36%
+2025-04-23 15:23:01,231 - INFO - Strategy Total Return: 8739.51%
+2025-04-23 15:23:01,231 - INFO - Tqqq Annual Return: 20.41%
+2025-04-23 15:23:01,232 - INFO - Strategy Annual Return: 116.72%
+2025-04-23 15:23:01,232 - INFO - Tqqq Volatility: 0.75
+2025-04-23 15:23:01,232 - INFO - Strategy Volatility: 0.41
+2025-04-23 15:23:01,232 - INFO - Tqqq Sharpe: 0.24
+2025-04-23 15:23:01,232 - INFO - Strategy Sharpe: 2.78
+2025-04-23 15:23:01,232 - INFO - Tqqq Max Drawdown: -81.66%
+2025-04-23 15:23:01,232 - INFO - Strategy Max Drawdown: -39.40%
+2025-04-23 15:23:01,233 - INFO - Trade Count: 446
+2025-04-23 15:23:01,233 - INFO - Total Fee: $9,363.65
+2025-04-23 15:23:01,233 - INFO - ---------------------------------
+2025-04-23 15:23:01,233 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 15:23:03,064 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_summary_2019-07-01_to_2025-04-16.txt
+2025-04-23 15:23:03,122 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_details_2019-07-01_to_2025-04-16.csv
+2025-04-23 15:23:03,122 - INFO - Simulation finished for period: 2019-07-01 to 2025-04-16
+2025-04-23 15:23:13,134 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 15:23:13,137 - INFO - Starting simulation for period: 2019-07-01 to 2025-04-16
+2025-04-23 15:23:13,137 - INFO - Loading models, parameters, and feature data...
+2025-04-23 15:23:13,379 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 15:23:13,380 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:23:13,381 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:23:13,405 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 15:23:13,405 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\data\tqqq_features.csv: (2590, 46)
+2025-04-23 15:23:13,408 - INFO - Filtering data for the specified period...
+2025-04-23 15:23:13,409 - INFO - Data filtered: (1457, 46) rows from 2019-07-01 04:00:00 to 2025-04-15 04:00:00
+2025-04-23 15:23:13,409 - INFO - Detecting volatility...
+2025-04-23 15:23:13,412 - INFO - 감지된 고변동성 날짜 수: 185
+2025-04-23 15:23:13,412 - INFO - 감지된 변동성 기간 수: 142
+2025-04-23 15:23:13,412 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 15:23:13,413 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 15:23:13,413 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 15:23:13,413 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 15:23:13,510 - INFO - Strategy implemented. Signals: TQQQ(773), Cash(648), SQQQ(36)
+2025-04-23 15:23:13,510 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 15:23:13,512 - INFO - 전략 백테스팅 중...
+2025-04-23 15:23:13,516 - INFO - 
+백테스팅 결과:
+2025-04-23 15:23:13,517 - INFO - 테스트 기간: 2019-07-01 ~ 2025-04-15 (2115일, 5.79년)
+2025-04-23 15:23:13,517 - INFO - 초기 자본금: $10,000.00
+2025-04-23 15:23:13,517 - INFO - 최종 자본금 (TQQQ Buy & Hold): $29,335.50
+2025-04-23 15:23:13,518 - INFO - 최종 자본금 (전략): $883,951.45
+2025-04-23 15:23:13,518 - INFO - 총 수익률 (TQQQ Buy & Hold): 193.36%
+2025-04-23 15:23:13,518 - INFO - 총 수익률 (전략): 8739.51%
+2025-04-23 15:23:13,518 - INFO - 연간 수익률 (TQQQ Buy & Hold): 20.41%
+2025-04-23 15:23:13,519 - INFO - 연간 수익률 (전략): 116.72%
+2025-04-23 15:23:13,519 - INFO - 변동성 (TQQQ Buy & Hold): 75.48%
+2025-04-23 15:23:13,519 - INFO - 변동성 (전략): 41.27%
+2025-04-23 15:23:13,519 - INFO - 샤프 비율 (TQQQ Buy & Hold): 0.24
+2025-04-23 15:23:13,519 - INFO - 샤프 비율 (전략): 2.78
+2025-04-23 15:23:13,519 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -81.66%
+2025-04-23 15:23:13,519 - INFO - 최대 낙폭 (전략): -39.40%
+2025-04-23 15:23:13,520 - INFO - 총 거래 횟수: 446
+2025-04-23 15:23:13,520 - INFO - 총 수수료: $9,363.65
+2025-04-23 15:23:13,521 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 15:23:13,521 - INFO - Test Period: 2019-07-01 ~ 2025-04-15
+2025-04-23 15:23:13,521 - INFO - Days: 2,115
+2025-04-23 15:23:13,521 - INFO - Years: 5.79
+2025-04-23 15:23:13,522 - INFO - Initial Capital: 10,000
+2025-04-23 15:23:13,522 - INFO - Final Tqqq Capital: $29,335.50
+2025-04-23 15:23:13,522 - INFO - Final Strategy Capital: $883,951.45
+2025-04-23 15:23:13,522 - INFO - Tqqq Total Return: 193.36%
+2025-04-23 15:23:13,522 - INFO - Strategy Total Return: 8739.51%
+2025-04-23 15:23:13,522 - INFO - Tqqq Annual Return: 20.41%
+2025-04-23 15:23:13,523 - INFO - Strategy Annual Return: 116.72%
+2025-04-23 15:23:13,523 - INFO - Tqqq Volatility: 0.75
+2025-04-23 15:23:13,523 - INFO - Strategy Volatility: 0.41
+2025-04-23 15:23:13,523 - INFO - Tqqq Sharpe: 0.24
+2025-04-23 15:23:13,523 - INFO - Strategy Sharpe: 2.78
+2025-04-23 15:23:13,524 - INFO - Tqqq Max Drawdown: -81.66%
+2025-04-23 15:23:13,524 - INFO - Strategy Max Drawdown: -39.40%
+2025-04-23 15:23:13,524 - INFO - Trade Count: 446
+2025-04-23 15:23:13,524 - INFO - Total Fee: $9,363.65
+2025-04-23 15:23:13,525 - INFO - ---------------------------------
+2025-04-23 15:23:13,525 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 15:23:15,260 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_summary_2019-07-01_to_2025-04-16.txt
+2025-04-23 15:23:15,319 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_details_2019-07-01_to_2025-04-16.csv
+2025-04-23 15:23:15,320 - INFO - Simulation finished for period: 2019-07-01 to 2025-04-16
+2025-04-23 15:23:42,123 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 15:23:42,126 - INFO - Starting simulation for period: 2022-01-01 to 2025-04-16
+2025-04-23 15:23:42,126 - INFO - Loading models, parameters, and feature data...
+2025-04-23 15:23:42,391 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 15:23:42,392 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:23:42,393 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:23:42,417 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 15:23:42,417 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\data\tqqq_features.csv: (2590, 46)
+2025-04-23 15:23:42,420 - INFO - Filtering data for the specified period...
+2025-04-23 15:23:42,421 - INFO - Data filtered: (824, 46) rows from 2022-01-03 05:00:00 to 2025-04-15 04:00:00
+2025-04-23 15:23:42,421 - INFO - Detecting volatility...
+2025-04-23 15:23:42,425 - INFO - 감지된 고변동성 날짜 수: 113
+2025-04-23 15:23:42,425 - INFO - 감지된 변동성 기간 수: 89
+2025-04-23 15:23:42,426 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 15:23:42,426 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 15:23:42,426 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 15:23:42,426 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 15:23:42,495 - INFO - Strategy implemented. Signals: TQQQ(455), Cash(349), SQQQ(20)
+2025-04-23 15:23:42,496 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 15:23:42,496 - INFO - 전략 백테스팅 중...
+2025-04-23 15:23:42,500 - INFO - 
+백테스팅 결과:
+2025-04-23 15:23:42,501 - INFO - 테스트 기간: 2022-01-03 ~ 2025-04-15 (1197일, 3.28년)
+2025-04-23 15:23:42,501 - INFO - 초기 자본금: $10,000.00
+2025-04-23 15:23:42,501 - INFO - 최종 자본금 (TQQQ Buy & Hold): $5,503.24
+2025-04-23 15:23:42,502 - INFO - 최종 자본금 (전략): $69,963.71
+2025-04-23 15:23:42,502 - INFO - 총 수익률 (TQQQ Buy & Hold): -44.97%
+2025-04-23 15:23:42,502 - INFO - 총 수익률 (전략): 599.64%
+2025-04-23 15:23:42,503 - INFO - 연간 수익률 (TQQQ Buy & Hold): -16.65%
+2025-04-23 15:23:42,503 - INFO - 연간 수익률 (전략): 80.98%
+2025-04-23 15:23:42,503 - INFO - 변동성 (TQQQ Buy & Hold): 74.33%
+2025-04-23 15:23:42,503 - INFO - 변동성 (전략): 45.34%
+2025-04-23 15:23:42,504 - INFO - 샤프 비율 (TQQQ Buy & Hold): -0.25
+2025-04-23 15:23:42,504 - INFO - 샤프 비율 (전략): 1.74
+2025-04-23 15:23:42,504 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -80.25%
+2025-04-23 15:23:42,504 - INFO - 최대 낙폭 (전략): -28.91%
+2025-04-23 15:23:42,505 - INFO - 총 거래 횟수: 205
+2025-04-23 15:23:42,505 - INFO - 총 수수료: $658.62
+2025-04-23 15:23:42,505 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 15:23:42,506 - INFO - Test Period: 2022-01-03 ~ 2025-04-15
+2025-04-23 15:23:42,506 - INFO - Days: 1,197
+2025-04-23 15:23:42,506 - INFO - Years: 3.28
+2025-04-23 15:23:42,506 - INFO - Initial Capital: 10,000
+2025-04-23 15:23:42,506 - INFO - Final Tqqq Capital: $5,503.24
+2025-04-23 15:23:42,507 - INFO - Final Strategy Capital: $69,963.71
+2025-04-23 15:23:42,507 - INFO - Tqqq Total Return: -44.97%
+2025-04-23 15:23:42,507 - INFO - Strategy Total Return: 599.64%
+2025-04-23 15:23:42,507 - INFO - Tqqq Annual Return: -16.65%
+2025-04-23 15:23:42,507 - INFO - Strategy Annual Return: 80.98%
+2025-04-23 15:23:42,508 - INFO - Tqqq Volatility: 0.74
+2025-04-23 15:23:42,508 - INFO - Strategy Volatility: 0.45
+2025-04-23 15:23:42,508 - INFO - Tqqq Sharpe: -0.25
+2025-04-23 15:23:42,508 - INFO - Strategy Sharpe: 1.74
+2025-04-23 15:23:42,508 - INFO - Tqqq Max Drawdown: -80.25%
+2025-04-23 15:23:42,509 - INFO - Strategy Max Drawdown: -28.91%
+2025-04-23 15:23:42,509 - INFO - Trade Count: 205
+2025-04-23 15:23:42,509 - INFO - Total Fee: $658.62
+2025-04-23 15:23:42,509 - INFO - ---------------------------------
+2025-04-23 15:23:42,509 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 15:23:44,217 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_summary_2022-01-01_to_2025-04-16.txt
+2025-04-23 15:23:44,254 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_details_2022-01-01_to_2025-04-16.csv
+2025-04-23 15:23:44,254 - INFO - Simulation finished for period: 2022-01-01 to 2025-04-16
+2025-04-23 15:23:59,196 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 15:23:59,199 - INFO - Starting simulation for period: 2024-01-01 to 2025-04-16
+2025-04-23 15:23:59,199 - INFO - Loading models, parameters, and feature data...
+2025-04-23 15:23:59,441 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 15:23:59,442 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:23:59,442 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:23:59,468 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 15:23:59,469 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\data\tqqq_features.csv: (2590, 46)
+2025-04-23 15:23:59,471 - INFO - Filtering data for the specified period...
+2025-04-23 15:23:59,472 - INFO - Data filtered: (323, 46) rows from 2024-01-02 05:00:00 to 2025-04-15 04:00:00
+2025-04-23 15:23:59,472 - INFO - Detecting volatility...
+2025-04-23 15:23:59,476 - INFO - 감지된 고변동성 날짜 수: 29
+2025-04-23 15:23:59,476 - INFO - 감지된 변동성 기간 수: 24
+2025-04-23 15:23:59,477 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 15:23:59,477 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 15:23:59,477 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 15:23:59,477 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 15:23:59,530 - INFO - Strategy implemented. Signals: TQQQ(223), Cash(94), SQQQ(6)
+2025-04-23 15:23:59,531 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 15:23:59,532 - INFO - 전략 백테스팅 중...
+2025-04-23 15:23:59,536 - INFO - 
+백테스팅 결과:
+2025-04-23 15:23:59,536 - INFO - 테스트 기간: 2024-01-02 ~ 2025-04-15 (468일, 1.28년)
+2025-04-23 15:23:59,537 - INFO - 초기 자본금: $10,000.00
+2025-04-23 15:23:59,537 - INFO - 최종 자본금 (TQQQ Buy & Hold): $9,570.29
+2025-04-23 15:23:59,537 - INFO - 최종 자본금 (전략): $19,459.83
+2025-04-23 15:23:59,537 - INFO - 총 수익률 (TQQQ Buy & Hold): -4.30%
+2025-04-23 15:23:59,538 - INFO - 총 수익률 (전략): 94.60%
+2025-04-23 15:23:59,538 - INFO - 연간 수익률 (TQQQ Buy & Hold): -3.37%
+2025-04-23 15:23:59,538 - INFO - 연간 수익률 (전략): 68.08%
+2025-04-23 15:23:59,538 - INFO - 변동성 (TQQQ Buy & Hold): 68.84%
+2025-04-23 15:23:59,538 - INFO - 변동성 (전략): 57.26%
+2025-04-23 15:23:59,538 - INFO - 샤프 비율 (TQQQ Buy & Hold): -0.08
+2025-04-23 15:23:59,538 - INFO - 샤프 비율 (전략): 1.15
+2025-04-23 15:23:59,539 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -58.04%
+2025-04-23 15:23:59,539 - INFO - 최대 낙폭 (전략): -28.91%
+2025-04-23 15:23:59,539 - INFO - 총 거래 횟수: 64
+2025-04-23 15:23:59,540 - INFO - 총 수수료: $103.42
+2025-04-23 15:23:59,540 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 15:23:59,540 - INFO - Test Period: 2024-01-02 ~ 2025-04-15
+2025-04-23 15:23:59,540 - INFO - Days: 468
+2025-04-23 15:23:59,540 - INFO - Years: 1.28
+2025-04-23 15:23:59,541 - INFO - Initial Capital: 10,000
+2025-04-23 15:23:59,541 - INFO - Final Tqqq Capital: $9,570.29
+2025-04-23 15:23:59,541 - INFO - Final Strategy Capital: $19,459.83
+2025-04-23 15:23:59,541 - INFO - Tqqq Total Return: -4.30%
+2025-04-23 15:23:59,541 - INFO - Strategy Total Return: 94.60%
+2025-04-23 15:23:59,542 - INFO - Tqqq Annual Return: -3.37%
+2025-04-23 15:23:59,542 - INFO - Strategy Annual Return: 68.08%
+2025-04-23 15:23:59,542 - INFO - Tqqq Volatility: 0.69
+2025-04-23 15:23:59,542 - INFO - Strategy Volatility: 0.57
+2025-04-23 15:23:59,542 - INFO - Tqqq Sharpe: -0.08
+2025-04-23 15:23:59,543 - INFO - Strategy Sharpe: 1.15
+2025-04-23 15:23:59,543 - INFO - Tqqq Max Drawdown: -58.04%
+2025-04-23 15:23:59,543 - INFO - Strategy Max Drawdown: -28.91%
+2025-04-23 15:23:59,543 - INFO - Trade Count: 64
+2025-04-23 15:23:59,543 - INFO - Total Fee: $103.42
+2025-04-23 15:23:59,543 - INFO - ---------------------------------
+2025-04-23 15:23:59,543 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 15:24:01,159 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_summary_2024-01-01_to_2025-04-16.txt
+2025-04-23 15:24:01,178 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_details_2024-01-01_to_2025-04-16.csv
+2025-04-23 15:24:01,178 - INFO - Simulation finished for period: 2024-01-01 to 2025-04-16
+2025-04-23 15:24:20,221 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 15:24:20,223 - INFO - Starting simulation for period: 2025-01-01 to 2025-04-16
+2025-04-23 15:24:20,223 - INFO - Loading models, parameters, and feature data...
+2025-04-23 15:24:20,464 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 15:24:20,465 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:24:20,465 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:24:20,490 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 15:24:20,490 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\data\tqqq_features.csv: (2590, 46)
+2025-04-23 15:24:20,492 - INFO - Filtering data for the specified period...
+2025-04-23 15:24:20,493 - INFO - Data filtered: (71, 46) rows from 2025-01-02 05:00:00 to 2025-04-15 04:00:00
+2025-04-23 15:24:20,493 - INFO - Detecting volatility...
+2025-04-23 15:24:20,497 - INFO - 감지된 고변동성 날짜 수: 11
+2025-04-23 15:24:20,497 - INFO - 감지된 변동성 기간 수: 9
+2025-04-23 15:24:20,497 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 15:24:20,498 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 15:24:20,498 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 15:24:20,498 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 15:24:20,539 - INFO - Strategy implemented. Signals: TQQQ(22), Cash(45), SQQQ(4)
+2025-04-23 15:24:20,539 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 15:24:20,540 - INFO - 전략 백테스팅 중...
+2025-04-23 15:24:20,544 - INFO - 
+백테스팅 결과:
+2025-04-23 15:24:20,544 - INFO - 테스트 기간: 2025-01-02 ~ 2025-04-15 (102일, 0.28년)
+2025-04-23 15:24:20,545 - INFO - 초기 자본금: $10,000.00
+2025-04-23 15:24:20,545 - INFO - 최종 자본금 (TQQQ Buy & Hold): $5,776.88
+2025-04-23 15:24:20,545 - INFO - 최종 자본금 (전략): $9,671.40
+2025-04-23 15:24:20,545 - INFO - 총 수익률 (TQQQ Buy & Hold): -42.23%
+2025-04-23 15:24:20,546 - INFO - 총 수익률 (전략): -3.29%
+2025-04-23 15:24:20,546 - INFO - 연간 수익률 (TQQQ Buy & Hold): -85.96%
+2025-04-23 15:24:20,546 - INFO - 연간 수익률 (전략): -11.27%
+2025-04-23 15:24:20,546 - INFO - 변동성 (TQQQ Buy & Hold): 106.84%
+2025-04-23 15:24:20,546 - INFO - 변동성 (전략): 84.40%
+2025-04-23 15:24:20,547 - INFO - 샤프 비율 (TQQQ Buy & Hold): -0.82
+2025-04-23 15:24:20,547 - INFO - 샤프 비율 (전략): -0.16
+2025-04-23 15:24:20,547 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -56.84%
+2025-04-23 15:24:20,547 - INFO - 최대 낙폭 (전략): -28.91%
+2025-04-23 15:24:20,547 - INFO - 총 거래 횟수: 20
+2025-04-23 15:24:20,547 - INFO - 총 수수료: $19.65
+2025-04-23 15:24:20,548 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 15:24:20,548 - INFO - Test Period: 2025-01-02 ~ 2025-04-15
+2025-04-23 15:24:20,548 - INFO - Days: 102
+2025-04-23 15:24:20,548 - INFO - Years: 0.28
+2025-04-23 15:24:20,548 - INFO - Initial Capital: 10,000
+2025-04-23 15:24:20,548 - INFO - Final Tqqq Capital: $5,776.88
+2025-04-23 15:24:20,549 - INFO - Final Strategy Capital: $9,671.40
+2025-04-23 15:24:20,549 - INFO - Tqqq Total Return: -42.23%
+2025-04-23 15:24:20,549 - INFO - Strategy Total Return: -3.29%
+2025-04-23 15:24:20,549 - INFO - Tqqq Annual Return: -85.96%
+2025-04-23 15:24:20,549 - INFO - Strategy Annual Return: -11.27%
+2025-04-23 15:24:20,549 - INFO - Tqqq Volatility: 1.07
+2025-04-23 15:24:20,549 - INFO - Strategy Volatility: 0.84
+2025-04-23 15:24:20,550 - INFO - Tqqq Sharpe: -0.82
+2025-04-23 15:24:20,550 - INFO - Strategy Sharpe: -0.16
+2025-04-23 15:24:20,550 - INFO - Tqqq Max Drawdown: -56.84%
+2025-04-23 15:24:20,550 - INFO - Strategy Max Drawdown: -28.91%
+2025-04-23 15:24:20,550 - INFO - Trade Count: 20
+2025-04-23 15:24:20,550 - INFO - Total Fee: $19.65
+2025-04-23 15:24:20,550 - INFO - ---------------------------------
+2025-04-23 15:24:20,550 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 15:24:21,967 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_summary_2025-01-01_to_2025-04-16.txt
+2025-04-23 15:24:21,973 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_details_2025-01-01_to_2025-04-16.csv
+2025-04-23 15:24:21,973 - INFO - Simulation finished for period: 2025-01-01 to 2025-04-16
+2025-04-23 15:24:42,762 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 15:24:42,764 - INFO - Starting simulation for period: 2025-01-01 to 2025-04-16
+2025-04-23 15:24:42,764 - INFO - Loading models, parameters, and feature data...
+2025-04-23 15:24:43,015 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 15:24:43,016 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:24:43,017 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:24:43,041 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 15:24:43,041 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\data\tqqq_features.csv: (2590, 46)
+2025-04-23 15:24:43,042 - INFO - Filtering data for the specified period...
+2025-04-23 15:24:43,043 - INFO - Data filtered: (71, 46) rows from 2025-01-02 05:00:00 to 2025-04-15 04:00:00
+2025-04-23 15:24:43,044 - INFO - Detecting volatility...
+2025-04-23 15:24:43,047 - INFO - 감지된 고변동성 날짜 수: 11
+2025-04-23 15:24:43,048 - INFO - 감지된 변동성 기간 수: 9
+2025-04-23 15:24:43,048 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 15:24:43,048 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 15:24:43,049 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 15:24:43,049 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 15:24:43,090 - INFO - Strategy implemented. Signals: TQQQ(22), Cash(45), SQQQ(4)
+2025-04-23 15:24:43,091 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 15:24:43,091 - INFO - 전략 백테스팅 중...
+2025-04-23 15:24:43,096 - INFO - 
+백테스팅 결과:
+2025-04-23 15:24:43,096 - INFO - 테스트 기간: 2025-01-02 ~ 2025-04-15 (102일, 0.28년)
+2025-04-23 15:24:43,097 - INFO - 초기 자본금: $10,000.00
+2025-04-23 15:24:43,097 - INFO - 최종 자본금 (TQQQ Buy & Hold): $5,776.88
+2025-04-23 15:24:43,097 - INFO - 최종 자본금 (전략): $9,671.40
+2025-04-23 15:24:43,098 - INFO - 총 수익률 (TQQQ Buy & Hold): -42.23%
+2025-04-23 15:24:43,098 - INFO - 총 수익률 (전략): -3.29%
+2025-04-23 15:24:43,098 - INFO - 연간 수익률 (TQQQ Buy & Hold): -85.96%
+2025-04-23 15:24:43,099 - INFO - 연간 수익률 (전략): -11.27%
+2025-04-23 15:24:43,099 - INFO - 변동성 (TQQQ Buy & Hold): 106.84%
+2025-04-23 15:24:43,099 - INFO - 변동성 (전략): 84.40%
+2025-04-23 15:24:43,099 - INFO - 샤프 비율 (TQQQ Buy & Hold): -0.82
+2025-04-23 15:24:43,099 - INFO - 샤프 비율 (전략): -0.16
+2025-04-23 15:24:43,099 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -56.84%
+2025-04-23 15:24:43,100 - INFO - 최대 낙폭 (전략): -28.91%
+2025-04-23 15:24:43,100 - INFO - 총 거래 횟수: 20
+2025-04-23 15:24:43,100 - INFO - 총 수수료: $19.65
+2025-04-23 15:24:43,101 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 15:24:43,101 - INFO - Test Period: 2025-01-02 ~ 2025-04-15
+2025-04-23 15:24:43,101 - INFO - Days: 102
+2025-04-23 15:24:43,102 - INFO - Years: 0.28
+2025-04-23 15:24:43,102 - INFO - Initial Capital: 10,000
+2025-04-23 15:24:43,102 - INFO - Final Tqqq Capital: $5,776.88
+2025-04-23 15:24:43,102 - INFO - Final Strategy Capital: $9,671.40
+2025-04-23 15:24:43,102 - INFO - Tqqq Total Return: -42.23%
+2025-04-23 15:24:43,102 - INFO - Strategy Total Return: -3.29%
+2025-04-23 15:24:43,102 - INFO - Tqqq Annual Return: -85.96%
+2025-04-23 15:24:43,102 - INFO - Strategy Annual Return: -11.27%
+2025-04-23 15:24:43,103 - INFO - Tqqq Volatility: 1.07
+2025-04-23 15:24:43,103 - INFO - Strategy Volatility: 0.84
+2025-04-23 15:24:43,103 - INFO - Tqqq Sharpe: -0.82
+2025-04-23 15:24:43,103 - INFO - Strategy Sharpe: -0.16
+2025-04-23 15:24:43,103 - INFO - Tqqq Max Drawdown: -56.84%
+2025-04-23 15:24:43,103 - INFO - Strategy Max Drawdown: -28.91%
+2025-04-23 15:24:43,103 - INFO - Trade Count: 20
+2025-04-23 15:24:43,103 - INFO - Total Fee: $19.65
+2025-04-23 15:24:43,104 - INFO - ---------------------------------
+2025-04-23 15:24:43,104 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 15:24:44,549 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_summary_2025-01-01_to_2025-04-16.txt
+2025-04-23 15:24:44,555 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_details_2025-01-01_to_2025-04-16.csv
+2025-04-23 15:24:44,555 - INFO - Simulation finished for period: 2025-01-01 to 2025-04-16
+2025-04-23 15:25:07,251 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 15:25:07,253 - INFO - Starting simulation for period: 2024-01-01 to 2025-04-16
+2025-04-23 15:25:07,253 - INFO - Loading models, parameters, and feature data...
+2025-04-23 15:25:07,505 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_model.pkl
+2025-04-23 15:25:07,507 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:25:07,508 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:25:07,533 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 15:25:07,534 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\data\tqqq_features.csv: (2590, 46)
+2025-04-23 15:25:07,535 - INFO - Filtering data for the specified period...
+2025-04-23 15:25:07,536 - INFO - Data filtered: (323, 46) rows from 2024-01-02 05:00:00 to 2025-04-15 04:00:00
+2025-04-23 15:25:07,536 - INFO - Detecting volatility...
+2025-04-23 15:25:07,539 - INFO - 감지된 고변동성 날짜 수: 29
+2025-04-23 15:25:07,540 - INFO - 감지된 변동성 기간 수: 24
+2025-04-23 15:25:07,540 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 15:25:07,540 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 15:25:07,541 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 15:25:07,541 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 15:25:07,589 - INFO - Strategy implemented. Signals: TQQQ(223), Cash(94), SQQQ(6)
+2025-04-23 15:25:07,590 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 15:25:07,591 - INFO - 전략 백테스팅 중...
+2025-04-23 15:25:07,595 - INFO - 
+백테스팅 결과:
+2025-04-23 15:25:07,595 - INFO - 테스트 기간: 2024-01-02 ~ 2025-04-15 (468일, 1.28년)
+2025-04-23 15:25:07,596 - INFO - 초기 자본금: $10,000.00
+2025-04-23 15:25:07,596 - INFO - 최종 자본금 (TQQQ Buy & Hold): $9,570.29
+2025-04-23 15:25:07,597 - INFO - 최종 자본금 (전략): $19,459.83
+2025-04-23 15:25:07,597 - INFO - 총 수익률 (TQQQ Buy & Hold): -4.30%
+2025-04-23 15:25:07,597 - INFO - 총 수익률 (전략): 94.60%
+2025-04-23 15:25:07,598 - INFO - 연간 수익률 (TQQQ Buy & Hold): -3.37%
+2025-04-23 15:25:07,598 - INFO - 연간 수익률 (전략): 68.08%
+2025-04-23 15:25:07,598 - INFO - 변동성 (TQQQ Buy & Hold): 68.84%
+2025-04-23 15:25:07,598 - INFO - 변동성 (전략): 57.26%
+2025-04-23 15:25:07,599 - INFO - 샤프 비율 (TQQQ Buy & Hold): -0.08
+2025-04-23 15:25:07,599 - INFO - 샤프 비율 (전략): 1.15
+2025-04-23 15:25:07,599 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -58.04%
+2025-04-23 15:25:07,599 - INFO - 최대 낙폭 (전략): -28.91%
+2025-04-23 15:25:07,600 - INFO - 총 거래 횟수: 64
+2025-04-23 15:25:07,600 - INFO - 총 수수료: $103.42
+2025-04-23 15:25:07,600 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 15:25:07,600 - INFO - Test Period: 2024-01-02 ~ 2025-04-15
+2025-04-23 15:25:07,601 - INFO - Days: 468
+2025-04-23 15:25:07,601 - INFO - Years: 1.28
+2025-04-23 15:25:07,601 - INFO - Initial Capital: 10,000
+2025-04-23 15:25:07,601 - INFO - Final Tqqq Capital: $9,570.29
+2025-04-23 15:25:07,601 - INFO - Final Strategy Capital: $19,459.83
+2025-04-23 15:25:07,602 - INFO - Tqqq Total Return: -4.30%
+2025-04-23 15:25:07,602 - INFO - Strategy Total Return: 94.60%
+2025-04-23 15:25:07,602 - INFO - Tqqq Annual Return: -3.37%
+2025-04-23 15:25:07,602 - INFO - Strategy Annual Return: 68.08%
+2025-04-23 15:25:07,602 - INFO - Tqqq Volatility: 0.69
+2025-04-23 15:25:07,602 - INFO - Strategy Volatility: 0.57
+2025-04-23 15:25:07,603 - INFO - Tqqq Sharpe: -0.08
+2025-04-23 15:25:07,603 - INFO - Strategy Sharpe: 1.15
+2025-04-23 15:25:07,603 - INFO - Tqqq Max Drawdown: -58.04%
+2025-04-23 15:25:07,603 - INFO - Strategy Max Drawdown: -28.91%
+2025-04-23 15:25:07,603 - INFO - Trade Count: 64
+2025-04-23 15:25:07,603 - INFO - Total Fee: $103.42
+2025-04-23 15:25:07,603 - INFO - ---------------------------------
+2025-04-23 15:25:07,604 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 15:25:09,118 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_summary_2024-01-01_to_2025-04-16.txt
+2025-04-23 15:25:09,134 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경\results_simulation\simulation_details_2024-01-01_to_2025-04-16.csv
+2025-04-23 15:25:09,134 - INFO - Simulation finished for period: 2024-01-01 to 2025-04-16
+2025-04-23 15:50:23,545 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 15:50:23,548 - INFO - Starting simulation for period: 2023-05-26 to 2024-05-24
+2025-04-23 15:50:23,548 - INFO - Loading models, parameters, and feature data...
+2025-04-23 15:50:23,793 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_model.pkl
+2025-04-23 15:50:23,794 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:50:23,795 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 15:50:23,819 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 15:50:23,820 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\data\tqqq_features.csv: (2590, 46)
+2025-04-23 15:50:23,822 - INFO - Filtering data for the specified period...
+2025-04-23 15:50:23,823 - INFO - Data filtered: (250, 46) rows from 2023-05-26 04:00:00 to 2024-05-23 04:00:00
+2025-04-23 15:50:23,823 - INFO - Detecting volatility...
+2025-04-23 15:50:23,827 - INFO - 감지된 고변동성 날짜 수: 7
+2025-04-23 15:50:23,827 - INFO - 감지된 변동성 기간 수: 6
+2025-04-23 15:50:23,827 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 15:50:23,827 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 15:50:23,827 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 15:50:23,828 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 15:50:23,874 - INFO - Strategy implemented. Signals: TQQQ(200), Cash(44), SQQQ(6)
+2025-04-23 15:50:23,874 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 15:50:23,875 - INFO - 전략 백테스팅 중...
+2025-04-23 15:50:23,879 - INFO - 
+백테스팅 결과:
+2025-04-23 15:50:23,879 - INFO - 테스트 기간: 2023-05-26 ~ 2024-05-23 (363일, 0.99년)
+2025-04-23 15:50:23,879 - INFO - 초기 자본금: $10,000.00
+2025-04-23 15:50:23,880 - INFO - 최종 자본금 (TQQQ Buy & Hold): $18,957.93
+2025-04-23 15:50:23,880 - INFO - 최종 자본금 (전략): $17,103.83
+2025-04-23 15:50:23,880 - INFO - 총 수익률 (TQQQ Buy & Hold): 89.58%
+2025-04-23 15:50:23,881 - INFO - 총 수익률 (전략): 71.04%
+2025-04-23 15:50:23,881 - INFO - 연간 수익률 (TQQQ Buy & Hold): 90.25%
+2025-04-23 15:50:23,881 - INFO - 연간 수익률 (전략): 71.54%
+2025-04-23 15:50:23,881 - INFO - 변동성 (TQQQ Buy & Hold): 47.27%
+2025-04-23 15:50:23,881 - INFO - 변동성 (전략): 42.08%
+2025-04-23 15:50:23,882 - INFO - 샤프 비율 (TQQQ Buy & Hold): 1.87
+2025-04-23 15:50:23,882 - INFO - 샤프 비율 (전략): 1.65
+2025-04-23 15:50:23,882 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -33.14%
+2025-04-23 15:50:23,882 - INFO - 최대 낙폭 (전략): -27.80%
+2025-04-23 15:50:23,882 - INFO - 총 거래 횟수: 62
+2025-04-23 15:50:23,883 - INFO - 총 수수료: $74.88
+2025-04-23 15:50:23,883 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 15:50:23,883 - INFO - Test Period: 2023-05-26 ~ 2024-05-23
+2025-04-23 15:50:23,883 - INFO - Days: 363
+2025-04-23 15:50:23,884 - INFO - Years: 0.99
+2025-04-23 15:50:23,884 - INFO - Initial Capital: 10,000
+2025-04-23 15:50:23,884 - INFO - Final Tqqq Capital: $18,957.93
+2025-04-23 15:50:23,884 - INFO - Final Strategy Capital: $17,103.83
+2025-04-23 15:50:23,884 - INFO - Tqqq Total Return: 89.58%
+2025-04-23 15:50:23,884 - INFO - Strategy Total Return: 71.04%
+2025-04-23 15:50:23,885 - INFO - Tqqq Annual Return: 90.25%
+2025-04-23 15:50:23,885 - INFO - Strategy Annual Return: 71.54%
+2025-04-23 15:50:23,885 - INFO - Tqqq Volatility: 0.47
+2025-04-23 15:50:23,885 - INFO - Strategy Volatility: 0.42
+2025-04-23 15:50:23,885 - INFO - Tqqq Sharpe: 1.87
+2025-04-23 15:50:23,885 - INFO - Strategy Sharpe: 1.65
+2025-04-23 15:50:23,886 - INFO - Tqqq Max Drawdown: -33.14%
+2025-04-23 15:50:23,886 - INFO - Strategy Max Drawdown: -27.80%
+2025-04-23 15:50:23,886 - INFO - Trade Count: 62
+2025-04-23 15:50:23,886 - INFO - Total Fee: $74.88
+2025-04-23 15:50:23,886 - INFO - ---------------------------------
+2025-04-23 15:50:23,886 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 15:50:25,338 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_summary_2023-05-26_to_2024-05-24.txt
+2025-04-23 15:50:25,351 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_details_2023-05-26_to_2024-05-24.csv
+2025-04-23 15:50:25,352 - INFO - Simulation finished for period: 2023-05-26 to 2024-05-24
+2025-04-23 16:28:37,988 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 16:28:37,991 - INFO - Starting simulation for period: 2023-05-26 to 2024-05-24
+2025-04-23 16:28:37,991 - INFO - Loading models, parameters, and feature data...
+2025-04-23 16:28:38,258 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_model.pkl
+2025-04-23 16:28:38,259 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:28:38,259 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:28:38,295 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 16:28:38,296 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\data\tqqq_features.csv: (2590, 46)
+2025-04-23 16:28:38,298 - INFO - Filtering data for the specified period...
+2025-04-23 16:28:38,299 - INFO - Data filtered: (250, 46) rows from 2023-05-26 04:00:00 to 2024-05-23 04:00:00
+2025-04-23 16:28:38,299 - INFO - Detecting volatility...
+2025-04-23 16:28:38,302 - INFO - 감지된 고변동성 날짜 수: 7
+2025-04-23 16:28:38,303 - INFO - 감지된 변동성 기간 수: 6
+2025-04-23 16:28:38,303 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 16:28:38,303 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 16:28:38,303 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 16:28:38,303 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 16:28:38,350 - INFO - Strategy implemented. Signals: TQQQ(200), Cash(44), SQQQ(6)
+2025-04-23 16:28:38,351 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 16:28:38,351 - INFO - 전략 백테스팅 중...
+2025-04-23 16:28:38,356 - INFO - 
+백테스팅 결과:
+2025-04-23 16:28:38,356 - INFO - 테스트 기간: 2023-05-26 ~ 2024-05-23 (363일, 0.99년)
+2025-04-23 16:28:38,356 - INFO - 초기 자본금: $10,000.00
+2025-04-23 16:28:38,357 - INFO - 최종 자본금 (TQQQ Buy & Hold): $18,957.93
+2025-04-23 16:28:38,357 - INFO - 최종 자본금 (전략): $17,103.83
+2025-04-23 16:28:38,357 - INFO - 총 수익률 (TQQQ Buy & Hold): 89.58%
+2025-04-23 16:28:38,358 - INFO - 총 수익률 (전략): 71.04%
+2025-04-23 16:28:38,358 - INFO - 연간 수익률 (TQQQ Buy & Hold): 90.25%
+2025-04-23 16:28:38,358 - INFO - 연간 수익률 (전략): 71.54%
+2025-04-23 16:28:38,358 - INFO - 변동성 (TQQQ Buy & Hold): 47.27%
+2025-04-23 16:28:38,358 - INFO - 변동성 (전략): 42.08%
+2025-04-23 16:28:38,359 - INFO - 샤프 비율 (TQQQ Buy & Hold): 1.87
+2025-04-23 16:28:38,359 - INFO - 샤프 비율 (전략): 1.65
+2025-04-23 16:28:38,359 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -33.14%
+2025-04-23 16:28:38,359 - INFO - 최대 낙폭 (전략): -27.80%
+2025-04-23 16:28:38,359 - INFO - 총 거래 횟수: 62
+2025-04-23 16:28:38,360 - INFO - 총 수수료: $74.88
+2025-04-23 16:28:38,360 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 16:28:38,360 - INFO - Test Period: 2023-05-26 ~ 2024-05-23
+2025-04-23 16:28:38,360 - INFO - Days: 363
+2025-04-23 16:28:38,360 - INFO - Years: 0.99
+2025-04-23 16:28:38,361 - INFO - Initial Capital: 10,000
+2025-04-23 16:28:38,361 - INFO - Final Tqqq Capital: $18,957.93
+2025-04-23 16:28:38,361 - INFO - Final Strategy Capital: $17,103.83
+2025-04-23 16:28:38,361 - INFO - Tqqq Total Return: 89.58%
+2025-04-23 16:28:38,361 - INFO - Strategy Total Return: 71.04%
+2025-04-23 16:28:38,361 - INFO - Tqqq Annual Return: 90.25%
+2025-04-23 16:28:38,361 - INFO - Strategy Annual Return: 71.54%
+2025-04-23 16:28:38,362 - INFO - Tqqq Volatility: 0.47
+2025-04-23 16:28:38,362 - INFO - Strategy Volatility: 0.42
+2025-04-23 16:28:38,362 - INFO - Tqqq Sharpe: 1.87
+2025-04-23 16:28:38,362 - INFO - Strategy Sharpe: 1.65
+2025-04-23 16:28:38,362 - INFO - Tqqq Max Drawdown: -33.14%
+2025-04-23 16:28:38,363 - INFO - Strategy Max Drawdown: -27.80%
+2025-04-23 16:28:38,363 - INFO - Trade Count: 62
+2025-04-23 16:28:38,363 - INFO - Total Fee: $74.88
+2025-04-23 16:28:38,363 - INFO - ---------------------------------
+2025-04-23 16:28:38,363 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 16:28:39,886 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_summary_2023-05-26_to_2024-05-24.txt
+2025-04-23 16:28:39,899 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_details_2023-05-26_to_2024-05-24.csv
+2025-04-23 16:28:39,899 - INFO - Simulation finished for period: 2023-05-26 to 2024-05-24
+2025-04-23 16:30:30,873 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 16:30:30,875 - INFO - Starting simulation for period: 2023-05-26 to 2024-06-24
+2025-04-23 16:30:30,875 - INFO - Loading models, parameters, and feature data...
+2025-04-23 16:30:31,135 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_model.pkl
+2025-04-23 16:30:31,136 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:30:31,137 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:30:31,165 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 16:30:31,166 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\data\tqqq_features.csv: (2590, 46)
+2025-04-23 16:30:31,169 - INFO - Filtering data for the specified period...
+2025-04-23 16:30:31,170 - INFO - Data filtered: (269, 46) rows from 2023-05-26 04:00:00 to 2024-06-21 04:00:00
+2025-04-23 16:30:31,170 - INFO - Detecting volatility...
+2025-04-23 16:30:31,175 - INFO - 감지된 고변동성 날짜 수: 7
+2025-04-23 16:30:31,175 - INFO - 감지된 변동성 기간 수: 6
+2025-04-23 16:30:31,175 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 16:30:31,176 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 16:30:31,176 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 16:30:31,176 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 16:30:31,227 - INFO - Strategy implemented. Signals: TQQQ(216), Cash(47), SQQQ(6)
+2025-04-23 16:30:31,228 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 16:30:31,228 - INFO - 전략 백테스팅 중...
+2025-04-23 16:30:31,233 - INFO - 
+백테스팅 결과:
+2025-04-23 16:30:31,233 - INFO - 테스트 기간: 2023-05-26 ~ 2024-06-21 (392일, 1.07년)
+2025-04-23 16:30:31,233 - INFO - 초기 자본금: $10,000.00
+2025-04-23 16:30:31,234 - INFO - 최종 자본금 (TQQQ Buy & Hold): $20,852.27
+2025-04-23 16:30:31,234 - INFO - 최종 자본금 (전략): $18,024.17
+2025-04-23 16:30:31,234 - INFO - 총 수익률 (TQQQ Buy & Hold): 108.52%
+2025-04-23 16:30:31,235 - INFO - 총 수익률 (전략): 80.24%
+2025-04-23 16:30:31,235 - INFO - 연간 수익률 (TQQQ Buy & Hold): 98.23%
+2025-04-23 16:30:31,235 - INFO - 연간 수익률 (전략): 73.07%
+2025-04-23 16:30:31,235 - INFO - 변동성 (TQQQ Buy & Hold): 46.64%
+2025-04-23 16:30:31,235 - INFO - 변동성 (전략): 41.64%
+2025-04-23 16:30:31,235 - INFO - 샤프 비율 (TQQQ Buy & Hold): 2.06
+2025-04-23 16:30:31,236 - INFO - 샤프 비율 (전략): 1.71
+2025-04-23 16:30:31,236 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -33.14%
+2025-04-23 16:30:31,236 - INFO - 최대 낙폭 (전략): -27.80%
+2025-04-23 16:30:31,236 - INFO - 총 거래 횟수: 66
+2025-04-23 16:30:31,237 - INFO - 총 수수료: $82.29
+2025-04-23 16:30:31,237 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 16:30:31,237 - INFO - Test Period: 2023-05-26 ~ 2024-06-21
+2025-04-23 16:30:31,237 - INFO - Days: 392
+2025-04-23 16:30:31,238 - INFO - Years: 1.07
+2025-04-23 16:30:31,238 - INFO - Initial Capital: 10,000
+2025-04-23 16:30:31,238 - INFO - Final Tqqq Capital: $20,852.27
+2025-04-23 16:30:31,238 - INFO - Final Strategy Capital: $18,024.17
+2025-04-23 16:30:31,238 - INFO - Tqqq Total Return: 108.52%
+2025-04-23 16:30:31,238 - INFO - Strategy Total Return: 80.24%
+2025-04-23 16:30:31,239 - INFO - Tqqq Annual Return: 98.23%
+2025-04-23 16:30:31,239 - INFO - Strategy Annual Return: 73.07%
+2025-04-23 16:30:31,239 - INFO - Tqqq Volatility: 0.47
+2025-04-23 16:30:31,239 - INFO - Strategy Volatility: 0.42
+2025-04-23 16:30:31,239 - INFO - Tqqq Sharpe: 2.06
+2025-04-23 16:30:31,239 - INFO - Strategy Sharpe: 1.71
+2025-04-23 16:30:31,240 - INFO - Tqqq Max Drawdown: -33.14%
+2025-04-23 16:30:31,240 - INFO - Strategy Max Drawdown: -27.80%
+2025-04-23 16:30:31,240 - INFO - Trade Count: 66
+2025-04-23 16:30:31,240 - INFO - Total Fee: $82.29
+2025-04-23 16:30:31,240 - INFO - ---------------------------------
+2025-04-23 16:30:31,240 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 16:30:32,712 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_summary_2023-05-26_to_2024-06-24.txt
+2025-04-23 16:30:32,727 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_details_2023-05-26_to_2024-06-24.csv
+2025-04-23 16:30:32,727 - INFO - Simulation finished for period: 2023-05-26 to 2024-06-24
+2025-04-23 16:30:55,092 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 16:30:55,094 - INFO - Starting simulation for period: 2023-05-26 to 2025-04-16
+2025-04-23 16:30:55,095 - INFO - Loading models, parameters, and feature data...
+2025-04-23 16:30:55,337 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_model.pkl
+2025-04-23 16:30:55,338 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:30:55,338 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:30:55,361 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 16:30:55,362 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\data\tqqq_features.csv: (2590, 46)
+2025-04-23 16:30:55,363 - INFO - Filtering data for the specified period...
+2025-04-23 16:30:55,364 - INFO - Data filtered: (473, 46) rows from 2023-05-26 04:00:00 to 2025-04-15 04:00:00
+2025-04-23 16:30:55,364 - INFO - Detecting volatility...
+2025-04-23 16:30:55,367 - INFO - 감지된 고변동성 날짜 수: 35
+2025-04-23 16:30:55,367 - INFO - 감지된 변동성 기간 수: 29
+2025-04-23 16:30:55,368 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 16:30:55,368 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 16:30:55,368 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 16:30:55,369 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 16:30:55,422 - INFO - Strategy implemented. Signals: TQQQ(334), Cash(129), SQQQ(10)
+2025-04-23 16:30:55,422 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 16:30:55,423 - INFO - 전략 백테스팅 중...
+2025-04-23 16:30:55,427 - INFO - 
+백테스팅 결과:
+2025-04-23 16:30:55,428 - INFO - 테스트 기간: 2023-05-26 ~ 2025-04-15 (690일, 1.89년)
+2025-04-23 16:30:55,428 - INFO - 초기 자본금: $10,000.00
+2025-04-23 16:30:55,428 - INFO - 최종 자본금 (TQQQ Buy & Hold): $13,314.41
+2025-04-23 16:30:55,429 - INFO - 최종 자본금 (전략): $24,662.20
+2025-04-23 16:30:55,429 - INFO - 총 수익률 (TQQQ Buy & Hold): 33.14%
+2025-04-23 16:30:55,429 - INFO - 총 수익률 (전략): 146.62%
+2025-04-23 16:30:55,429 - INFO - 연간 수익률 (TQQQ Buy & Hold): 16.35%
+2025-04-23 16:30:55,429 - INFO - 연간 수익률 (전략): 61.21%
+2025-04-23 16:30:55,429 - INFO - 변동성 (TQQQ Buy & Hold): 62.84%
+2025-04-23 16:30:55,430 - INFO - 변동성 (전략): 52.33%
+2025-04-23 16:30:55,430 - INFO - 샤프 비율 (TQQQ Buy & Hold): 0.23
+2025-04-23 16:30:55,430 - INFO - 샤프 비율 (전략): 1.13
+2025-04-23 16:30:55,430 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -58.04%
+2025-04-23 16:30:55,430 - INFO - 최대 낙폭 (전략): -28.91%
+2025-04-23 16:30:55,431 - INFO - 총 거래 횟수: 107
+2025-04-23 16:30:55,431 - INFO - 총 수수료: $177.85
+2025-04-23 16:30:55,431 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 16:30:55,431 - INFO - Test Period: 2023-05-26 ~ 2025-04-15
+2025-04-23 16:30:55,432 - INFO - Days: 690
+2025-04-23 16:30:55,432 - INFO - Years: 1.89
+2025-04-23 16:30:55,432 - INFO - Initial Capital: 10,000
+2025-04-23 16:30:55,432 - INFO - Final Tqqq Capital: $13,314.41
+2025-04-23 16:30:55,432 - INFO - Final Strategy Capital: $24,662.20
+2025-04-23 16:30:55,432 - INFO - Tqqq Total Return: 33.14%
+2025-04-23 16:30:55,432 - INFO - Strategy Total Return: 146.62%
+2025-04-23 16:30:55,433 - INFO - Tqqq Annual Return: 16.35%
+2025-04-23 16:30:55,433 - INFO - Strategy Annual Return: 61.21%
+2025-04-23 16:30:55,433 - INFO - Tqqq Volatility: 0.63
+2025-04-23 16:30:55,433 - INFO - Strategy Volatility: 0.52
+2025-04-23 16:30:55,433 - INFO - Tqqq Sharpe: 0.23
+2025-04-23 16:30:55,433 - INFO - Strategy Sharpe: 1.13
+2025-04-23 16:30:55,433 - INFO - Tqqq Max Drawdown: -58.04%
+2025-04-23 16:30:55,434 - INFO - Strategy Max Drawdown: -28.91%
+2025-04-23 16:30:55,434 - INFO - Trade Count: 107
+2025-04-23 16:30:55,434 - INFO - Total Fee: $177.85
+2025-04-23 16:30:55,434 - INFO - ---------------------------------
+2025-04-23 16:30:55,434 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 16:30:56,952 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_summary_2023-05-26_to_2025-04-16.txt
+2025-04-23 16:30:56,973 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_details_2023-05-26_to_2025-04-16.csv
+2025-04-23 16:30:56,974 - INFO - Simulation finished for period: 2023-05-26 to 2025-04-16
+2025-04-23 16:31:17,152 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 16:31:17,154 - INFO - Starting simulation for period: 2023-01-26 to 2025-04-16
+2025-04-23 16:31:17,154 - INFO - Loading models, parameters, and feature data...
+2025-04-23 16:31:17,393 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_model.pkl
+2025-04-23 16:31:17,394 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:31:17,394 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:31:17,418 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 16:31:17,419 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\data\tqqq_features.csv: (2590, 46)
+2025-04-23 16:31:17,420 - INFO - Filtering data for the specified period...
+2025-04-23 16:31:17,421 - INFO - Data filtered: (557, 46) rows from 2023-01-26 05:00:00 to 2025-04-15 04:00:00
+2025-04-23 16:31:17,421 - INFO - Detecting volatility...
+2025-04-23 16:31:17,425 - INFO - 감지된 고변동성 날짜 수: 41
+2025-04-23 16:31:17,425 - INFO - 감지된 변동성 기간 수: 35
+2025-04-23 16:31:17,426 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 16:31:17,426 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 16:31:17,426 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 16:31:17,426 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 16:31:17,482 - INFO - Strategy implemented. Signals: TQQQ(390), Cash(155), SQQQ(12)
+2025-04-23 16:31:17,483 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 16:31:17,484 - INFO - 전략 백테스팅 중...
+2025-04-23 16:31:17,488 - INFO - 
+백테스팅 결과:
+2025-04-23 16:31:17,488 - INFO - 테스트 기간: 2023-01-26 ~ 2025-04-15 (809일, 2.22년)
+2025-04-23 16:31:17,488 - INFO - 초기 자본금: $10,000.00
+2025-04-23 16:31:17,488 - INFO - 최종 자본금 (TQQQ Buy & Hold): $20,654.90
+2025-04-23 16:31:17,489 - INFO - 최종 자본금 (전략): $41,009.17
+2025-04-23 16:31:17,489 - INFO - 총 수익률 (TQQQ Buy & Hold): 106.55%
+2025-04-23 16:31:17,489 - INFO - 총 수익률 (전략): 310.09%
+2025-04-23 16:31:17,490 - INFO - 연간 수익률 (TQQQ Buy & Hold): 38.72%
+2025-04-23 16:31:17,490 - INFO - 연간 수익률 (전략): 89.02%
+2025-04-23 16:31:17,490 - INFO - 변동성 (TQQQ Buy & Hold): 62.49%
+2025-04-23 16:31:17,490 - INFO - 변동성 (전략): 51.10%
+2025-04-23 16:31:17,491 - INFO - 샤프 비율 (TQQQ Buy & Hold): 0.59
+2025-04-23 16:31:17,491 - INFO - 샤프 비율 (전략): 1.70
+2025-04-23 16:31:17,491 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -58.04%
+2025-04-23 16:31:17,491 - INFO - 최대 낙폭 (전략): -28.91%
+2025-04-23 16:31:17,491 - INFO - 총 거래 횟수: 138
+2025-04-23 16:31:17,492 - INFO - 총 수수료: $332.76
+2025-04-23 16:31:17,492 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 16:31:17,492 - INFO - Test Period: 2023-01-26 ~ 2025-04-15
+2025-04-23 16:31:17,493 - INFO - Days: 809
+2025-04-23 16:31:17,493 - INFO - Years: 2.22
+2025-04-23 16:31:17,493 - INFO - Initial Capital: 10,000
+2025-04-23 16:31:17,493 - INFO - Final Tqqq Capital: $20,654.90
+2025-04-23 16:31:17,493 - INFO - Final Strategy Capital: $41,009.17
+2025-04-23 16:31:17,493 - INFO - Tqqq Total Return: 106.55%
+2025-04-23 16:31:17,494 - INFO - Strategy Total Return: 310.09%
+2025-04-23 16:31:17,494 - INFO - Tqqq Annual Return: 38.72%
+2025-04-23 16:31:17,494 - INFO - Strategy Annual Return: 89.02%
+2025-04-23 16:31:17,494 - INFO - Tqqq Volatility: 0.62
+2025-04-23 16:31:17,494 - INFO - Strategy Volatility: 0.51
+2025-04-23 16:31:17,495 - INFO - Tqqq Sharpe: 0.59
+2025-04-23 16:31:17,495 - INFO - Strategy Sharpe: 1.70
+2025-04-23 16:31:17,495 - INFO - Tqqq Max Drawdown: -58.04%
+2025-04-23 16:31:17,495 - INFO - Strategy Max Drawdown: -28.91%
+2025-04-23 16:31:17,496 - INFO - Trade Count: 138
+2025-04-23 16:31:17,496 - INFO - Total Fee: $332.76
+2025-04-23 16:31:17,496 - INFO - ---------------------------------
+2025-04-23 16:31:17,496 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 16:31:18,969 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_summary_2023-01-26_to_2025-04-16.txt
+2025-04-23 16:31:18,993 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_details_2023-01-26_to_2025-04-16.csv
+2025-04-23 16:31:18,993 - INFO - Simulation finished for period: 2023-01-26 to 2025-04-16
+2025-04-23 16:31:41,272 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 16:31:41,274 - INFO - Starting simulation for period: 2022-01-26 to 2025-04-16
+2025-04-23 16:31:41,274 - INFO - Loading models, parameters, and feature data...
+2025-04-23 16:31:41,527 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_model.pkl
+2025-04-23 16:31:41,528 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:31:41,529 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:31:41,554 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 16:31:41,554 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\data\tqqq_features.csv: (2590, 46)
+2025-04-23 16:31:41,556 - INFO - Filtering data for the specified period...
+2025-04-23 16:31:41,557 - INFO - Data filtered: (808, 46) rows from 2022-01-26 05:00:00 to 2025-04-15 04:00:00
+2025-04-23 16:31:41,557 - INFO - Detecting volatility...
+2025-04-23 16:31:41,560 - INFO - 감지된 고변동성 날짜 수: 108
+2025-04-23 16:31:41,560 - INFO - 감지된 변동성 기간 수: 84
+2025-04-23 16:31:41,561 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 16:31:41,561 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 16:31:41,561 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 16:31:41,561 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 16:31:41,631 - INFO - Strategy implemented. Signals: TQQQ(450), Cash(340), SQQQ(18)
+2025-04-23 16:31:41,632 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 16:31:41,632 - INFO - 전략 백테스팅 중...
+2025-04-23 16:31:41,637 - INFO - 
+백테스팅 결과:
+2025-04-23 16:31:41,638 - INFO - 테스트 기간: 2022-01-26 ~ 2025-04-15 (1174일, 3.22년)
+2025-04-23 16:31:41,638 - INFO - 초기 자본금: $10,000.00
+2025-04-23 16:31:41,638 - INFO - 최종 자본금 (TQQQ Buy & Hold): $8,859.54
+2025-04-23 16:31:41,639 - INFO - 최종 자본금 (전략): $76,259.35
+2025-04-23 16:31:41,639 - INFO - 총 수익률 (TQQQ Buy & Hold): -11.40%
+2025-04-23 16:31:41,639 - INFO - 총 수익률 (전략): 662.59%
+2025-04-23 16:31:41,639 - INFO - 연간 수익률 (TQQQ Buy & Hold): -3.69%
+2025-04-23 16:31:41,640 - INFO - 연간 수익률 (전략): 88.06%
+2025-04-23 16:31:41,640 - INFO - 변동성 (TQQQ Buy & Hold): 74.23%
+2025-04-23 16:31:41,640 - INFO - 변동성 (전략): 45.35%
+2025-04-23 16:31:41,640 - INFO - 샤프 비율 (TQQQ Buy & Hold): -0.08
+2025-04-23 16:31:41,640 - INFO - 샤프 비율 (전략): 1.90
+2025-04-23 16:31:41,640 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -74.82%
+2025-04-23 16:31:41,640 - INFO - 최대 낙폭 (전략): -28.91%
+2025-04-23 16:31:41,641 - INFO - 총 거래 횟수: 199
+2025-04-23 16:31:41,641 - INFO - 총 수수료: $711.37
+2025-04-23 16:31:41,642 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 16:31:41,642 - INFO - Test Period: 2022-01-26 ~ 2025-04-15
+2025-04-23 16:31:41,642 - INFO - Days: 1,174
+2025-04-23 16:31:41,642 - INFO - Years: 3.22
+2025-04-23 16:31:41,642 - INFO - Initial Capital: 10,000
+2025-04-23 16:31:41,642 - INFO - Final Tqqq Capital: $8,859.54
+2025-04-23 16:31:41,643 - INFO - Final Strategy Capital: $76,259.35
+2025-04-23 16:31:41,643 - INFO - Tqqq Total Return: -11.40%
+2025-04-23 16:31:41,643 - INFO - Strategy Total Return: 662.59%
+2025-04-23 16:31:41,644 - INFO - Tqqq Annual Return: -3.69%
+2025-04-23 16:31:41,644 - INFO - Strategy Annual Return: 88.06%
+2025-04-23 16:31:41,644 - INFO - Tqqq Volatility: 0.74
+2025-04-23 16:31:41,644 - INFO - Strategy Volatility: 0.45
+2025-04-23 16:31:41,644 - INFO - Tqqq Sharpe: -0.08
+2025-04-23 16:31:41,645 - INFO - Strategy Sharpe: 1.90
+2025-04-23 16:31:41,645 - INFO - Tqqq Max Drawdown: -74.82%
+2025-04-23 16:31:41,645 - INFO - Strategy Max Drawdown: -28.91%
+2025-04-23 16:31:41,645 - INFO - Trade Count: 199
+2025-04-23 16:31:41,645 - INFO - Total Fee: $711.37
+2025-04-23 16:31:41,646 - INFO - ---------------------------------
+2025-04-23 16:31:41,646 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 16:31:43,326 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_summary_2022-01-26_to_2025-04-16.txt
+2025-04-23 16:31:43,359 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_details_2022-01-26_to_2025-04-16.csv
+2025-04-23 16:31:43,360 - INFO - Simulation finished for period: 2022-01-26 to 2025-04-16
+2025-04-23 16:32:16,689 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 16:32:16,692 - INFO - Starting simulation for period: 2023-01-26 to 2025-04-16
+2025-04-23 16:32:16,692 - INFO - Loading models, parameters, and feature data...
+2025-04-23 16:32:16,930 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_model.pkl
+2025-04-23 16:32:16,931 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:32:16,932 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:32:16,957 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 16:32:16,957 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\data\tqqq_features.csv: (2590, 46)
+2025-04-23 16:32:16,960 - INFO - Filtering data for the specified period...
+2025-04-23 16:32:16,960 - INFO - Data filtered: (557, 46) rows from 2023-01-26 05:00:00 to 2025-04-15 04:00:00
+2025-04-23 16:32:16,961 - INFO - Detecting volatility...
+2025-04-23 16:32:16,964 - INFO - 감지된 고변동성 날짜 수: 41
+2025-04-23 16:32:16,965 - INFO - 감지된 변동성 기간 수: 35
+2025-04-23 16:32:16,965 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 16:32:16,965 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 16:32:16,965 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 16:32:16,966 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 16:32:17,026 - INFO - Strategy implemented. Signals: TQQQ(390), Cash(155), SQQQ(12)
+2025-04-23 16:32:17,026 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 16:32:17,028 - INFO - 전략 백테스팅 중...
+2025-04-23 16:32:17,032 - INFO - 
+백테스팅 결과:
+2025-04-23 16:32:17,032 - INFO - 테스트 기간: 2023-01-26 ~ 2025-04-15 (809일, 2.22년)
+2025-04-23 16:32:17,033 - INFO - 초기 자본금: $10,000.00
+2025-04-23 16:32:17,033 - INFO - 최종 자본금 (TQQQ Buy & Hold): $20,654.90
+2025-04-23 16:32:17,033 - INFO - 최종 자본금 (전략): $41,009.17
+2025-04-23 16:32:17,034 - INFO - 총 수익률 (TQQQ Buy & Hold): 106.55%
+2025-04-23 16:32:17,034 - INFO - 총 수익률 (전략): 310.09%
+2025-04-23 16:32:17,034 - INFO - 연간 수익률 (TQQQ Buy & Hold): 38.72%
+2025-04-23 16:32:17,034 - INFO - 연간 수익률 (전략): 89.02%
+2025-04-23 16:32:17,034 - INFO - 변동성 (TQQQ Buy & Hold): 62.49%
+2025-04-23 16:32:17,034 - INFO - 변동성 (전략): 51.10%
+2025-04-23 16:32:17,034 - INFO - 샤프 비율 (TQQQ Buy & Hold): 0.59
+2025-04-23 16:32:17,035 - INFO - 샤프 비율 (전략): 1.70
+2025-04-23 16:32:17,035 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -58.04%
+2025-04-23 16:32:17,035 - INFO - 최대 낙폭 (전략): -28.91%
+2025-04-23 16:32:17,035 - INFO - 총 거래 횟수: 138
+2025-04-23 16:32:17,036 - INFO - 총 수수료: $332.76
+2025-04-23 16:32:17,036 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 16:32:17,036 - INFO - Test Period: 2023-01-26 ~ 2025-04-15
+2025-04-23 16:32:17,037 - INFO - Days: 809
+2025-04-23 16:32:17,037 - INFO - Years: 2.22
+2025-04-23 16:32:17,037 - INFO - Initial Capital: 10,000
+2025-04-23 16:32:17,037 - INFO - Final Tqqq Capital: $20,654.90
+2025-04-23 16:32:17,037 - INFO - Final Strategy Capital: $41,009.17
+2025-04-23 16:32:17,037 - INFO - Tqqq Total Return: 106.55%
+2025-04-23 16:32:17,037 - INFO - Strategy Total Return: 310.09%
+2025-04-23 16:32:17,038 - INFO - Tqqq Annual Return: 38.72%
+2025-04-23 16:32:17,038 - INFO - Strategy Annual Return: 89.02%
+2025-04-23 16:32:17,038 - INFO - Tqqq Volatility: 0.62
+2025-04-23 16:32:17,038 - INFO - Strategy Volatility: 0.51
+2025-04-23 16:32:17,038 - INFO - Tqqq Sharpe: 0.59
+2025-04-23 16:32:17,039 - INFO - Strategy Sharpe: 1.70
+2025-04-23 16:32:17,039 - INFO - Tqqq Max Drawdown: -58.04%
+2025-04-23 16:32:17,039 - INFO - Strategy Max Drawdown: -28.91%
+2025-04-23 16:32:17,039 - INFO - Trade Count: 138
+2025-04-23 16:32:17,039 - INFO - Total Fee: $332.76
+2025-04-23 16:32:17,040 - INFO - ---------------------------------
+2025-04-23 16:32:17,040 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 16:32:18,517 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_summary_2023-01-26_to_2025-04-16.txt
+2025-04-23 16:32:18,541 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_details_2023-01-26_to_2025-04-16.csv
+2025-04-23 16:32:18,541 - INFO - Simulation finished for period: 2023-01-26 to 2025-04-16
+2025-04-23 16:32:41,645 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 16:32:41,647 - INFO - Starting simulation for period: 2023-05-26 to 2024-05-24
+2025-04-23 16:32:41,647 - INFO - Loading models, parameters, and feature data...
+2025-04-23 16:32:41,893 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_model.pkl
+2025-04-23 16:32:41,894 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:32:41,895 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:32:41,920 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 16:32:41,920 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\data\tqqq_features.csv: (2590, 46)
+2025-04-23 16:32:41,922 - INFO - Filtering data for the specified period...
+2025-04-23 16:32:41,923 - INFO - Data filtered: (250, 46) rows from 2023-05-26 04:00:00 to 2024-05-23 04:00:00
+2025-04-23 16:32:41,924 - INFO - Detecting volatility...
+2025-04-23 16:32:41,927 - INFO - 감지된 고변동성 날짜 수: 7
+2025-04-23 16:32:41,927 - INFO - 감지된 변동성 기간 수: 6
+2025-04-23 16:32:41,928 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 16:32:41,928 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 16:32:41,928 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 16:32:41,928 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 16:32:41,976 - INFO - Strategy implemented. Signals: TQQQ(200), Cash(44), SQQQ(6)
+2025-04-23 16:32:41,977 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 16:32:41,977 - INFO - 전략 백테스팅 중...
+2025-04-23 16:32:41,981 - INFO - 
+백테스팅 결과:
+2025-04-23 16:32:41,982 - INFO - 테스트 기간: 2023-05-26 ~ 2024-05-23 (363일, 0.99년)
+2025-04-23 16:32:41,982 - INFO - 초기 자본금: $10,000.00
+2025-04-23 16:32:41,982 - INFO - 최종 자본금 (TQQQ Buy & Hold): $18,957.93
+2025-04-23 16:32:41,983 - INFO - 최종 자본금 (전략): $17,103.83
+2025-04-23 16:32:41,983 - INFO - 총 수익률 (TQQQ Buy & Hold): 89.58%
+2025-04-23 16:32:41,983 - INFO - 총 수익률 (전략): 71.04%
+2025-04-23 16:32:41,983 - INFO - 연간 수익률 (TQQQ Buy & Hold): 90.25%
+2025-04-23 16:32:41,983 - INFO - 연간 수익률 (전략): 71.54%
+2025-04-23 16:32:41,984 - INFO - 변동성 (TQQQ Buy & Hold): 47.27%
+2025-04-23 16:32:41,984 - INFO - 변동성 (전략): 42.08%
+2025-04-23 16:32:41,984 - INFO - 샤프 비율 (TQQQ Buy & Hold): 1.87
+2025-04-23 16:32:41,984 - INFO - 샤프 비율 (전략): 1.65
+2025-04-23 16:32:41,984 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -33.14%
+2025-04-23 16:32:41,984 - INFO - 최대 낙폭 (전략): -27.80%
+2025-04-23 16:32:41,985 - INFO - 총 거래 횟수: 62
+2025-04-23 16:32:41,985 - INFO - 총 수수료: $74.88
+2025-04-23 16:32:41,985 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 16:32:41,986 - INFO - Test Period: 2023-05-26 ~ 2024-05-23
+2025-04-23 16:32:41,986 - INFO - Days: 363
+2025-04-23 16:32:41,986 - INFO - Years: 0.99
+2025-04-23 16:32:41,986 - INFO - Initial Capital: 10,000
+2025-04-23 16:32:41,986 - INFO - Final Tqqq Capital: $18,957.93
+2025-04-23 16:32:41,986 - INFO - Final Strategy Capital: $17,103.83
+2025-04-23 16:32:41,987 - INFO - Tqqq Total Return: 89.58%
+2025-04-23 16:32:41,987 - INFO - Strategy Total Return: 71.04%
+2025-04-23 16:32:41,987 - INFO - Tqqq Annual Return: 90.25%
+2025-04-23 16:32:41,987 - INFO - Strategy Annual Return: 71.54%
+2025-04-23 16:32:41,987 - INFO - Tqqq Volatility: 0.47
+2025-04-23 16:32:41,987 - INFO - Strategy Volatility: 0.42
+2025-04-23 16:32:41,987 - INFO - Tqqq Sharpe: 1.87
+2025-04-23 16:32:41,988 - INFO - Strategy Sharpe: 1.65
+2025-04-23 16:32:41,988 - INFO - Tqqq Max Drawdown: -33.14%
+2025-04-23 16:32:41,988 - INFO - Strategy Max Drawdown: -27.80%
+2025-04-23 16:32:41,988 - INFO - Trade Count: 62
+2025-04-23 16:32:41,988 - INFO - Total Fee: $74.88
+2025-04-23 16:32:41,988 - INFO - ---------------------------------
+2025-04-23 16:32:41,988 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 16:32:43,519 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_summary_2023-05-26_to_2024-05-24.txt
+2025-04-23 16:32:43,531 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_details_2023-05-26_to_2024-05-24.csv
+2025-04-23 16:32:43,531 - INFO - Simulation finished for period: 2023-05-26 to 2024-05-24
+2025-04-23 16:33:18,280 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 16:33:18,282 - INFO - Starting simulation for period: 2015-01-01 to 2025-04-16
+2025-04-23 16:33:18,282 - INFO - Loading models, parameters, and feature data...
+2025-04-23 16:33:18,515 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_model.pkl
+2025-04-23 16:33:18,516 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:33:18,517 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:33:18,540 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 16:33:18,541 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\data\tqqq_features.csv: (2590, 46)
+2025-04-23 16:33:18,542 - INFO - Filtering data for the specified period...
+2025-04-23 16:33:18,543 - INFO - Data filtered: (2587, 46) rows from 2015-01-02 05:00:00 to 2025-04-15 04:00:00
+2025-04-23 16:33:18,543 - INFO - Detecting volatility...
+2025-04-23 16:33:18,548 - INFO - 감지된 고변동성 날짜 수: 253
+2025-04-23 16:33:18,548 - INFO - 감지된 변동성 기간 수: 196
+2025-04-23 16:33:18,548 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 16:33:18,549 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 16:33:18,549 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 16:33:18,549 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 16:33:18,689 - INFO - Strategy implemented. Signals: TQQQ(1388), Cash(1136), SQQQ(63)
+2025-04-23 16:33:18,689 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 16:33:18,690 - INFO - 전략 백테스팅 중...
+2025-04-23 16:33:18,695 - INFO - 
+백테스팅 결과:
+2025-04-23 16:33:18,695 - INFO - 테스트 기간: 2015-01-02 ~ 2025-04-15 (3755일, 10.29년)
+2025-04-23 16:33:18,695 - INFO - 초기 자본금: $10,000.00
+2025-04-23 16:33:18,695 - INFO - 최종 자본금 (TQQQ Buy & Hold): $117,182.99
+2025-04-23 16:33:18,696 - INFO - 최종 자본금 (전략): $398,151,690.55
+2025-04-23 16:33:18,696 - INFO - 총 수익률 (TQQQ Buy & Hold): 1071.83%
+2025-04-23 16:33:18,696 - INFO - 총 수익률 (전략): 3981416.91%
+2025-04-23 16:33:18,696 - INFO - 연간 수익률 (TQQQ Buy & Hold): 27.03%
+2025-04-23 16:33:18,697 - INFO - 연간 수익률 (전략): 179.99%
+2025-04-23 16:33:18,697 - INFO - 변동성 (TQQQ Buy & Hold): 66.07%
+2025-04-23 16:33:18,697 - INFO - 변동성 (전략): 36.22%
+2025-04-23 16:33:18,697 - INFO - 샤프 비율 (TQQQ Buy & Hold): 0.38
+2025-04-23 16:33:18,697 - INFO - 샤프 비율 (전략): 4.91
+2025-04-23 16:33:18,697 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -81.66%
+2025-04-23 16:33:18,697 - INFO - 최대 낙폭 (전략): -39.40%
+2025-04-23 16:33:18,698 - INFO - 총 거래 횟수: 868
+2025-04-23 16:33:18,698 - INFO - 총 수수료: $4,256,120.67
+2025-04-23 16:33:18,698 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 16:33:18,698 - INFO - Test Period: 2015-01-02 ~ 2025-04-15
+2025-04-23 16:33:18,699 - INFO - Days: 3,755
+2025-04-23 16:33:18,699 - INFO - Years: 10.29
+2025-04-23 16:33:18,699 - INFO - Initial Capital: 10,000
+2025-04-23 16:33:18,699 - INFO - Final Tqqq Capital: $117,182.99
+2025-04-23 16:33:18,699 - INFO - Final Strategy Capital: $398,151,690.55
+2025-04-23 16:33:18,700 - INFO - Tqqq Total Return: 1071.83%
+2025-04-23 16:33:18,700 - INFO - Strategy Total Return: 3981416.91%
+2025-04-23 16:33:18,700 - INFO - Tqqq Annual Return: 27.03%
+2025-04-23 16:33:18,700 - INFO - Strategy Annual Return: 179.99%
+2025-04-23 16:33:18,700 - INFO - Tqqq Volatility: 0.66
+2025-04-23 16:33:18,701 - INFO - Strategy Volatility: 0.36
+2025-04-23 16:33:18,701 - INFO - Tqqq Sharpe: 0.38
+2025-04-23 16:33:18,701 - INFO - Strategy Sharpe: 4.91
+2025-04-23 16:33:18,701 - INFO - Tqqq Max Drawdown: -81.66%
+2025-04-23 16:33:18,701 - INFO - Strategy Max Drawdown: -39.40%
+2025-04-23 16:33:18,701 - INFO - Trade Count: 868
+2025-04-23 16:33:18,702 - INFO - Total Fee: $4,256,120.67
+2025-04-23 16:33:18,702 - INFO - ---------------------------------
+2025-04-23 16:33:18,702 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 16:33:20,647 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_summary_2015-01-01_to_2025-04-16.txt
+2025-04-23 16:33:20,744 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest\results_simulation\simulation_details_2015-01-01_to_2025-04-16.csv
+2025-04-23 16:33:20,745 - INFO - Simulation finished for period: 2015-01-01 to 2025-04-16
+2025-04-23 16:40:48,408 - INFO - Successfully imported functions from implement_strategy.
+2025-04-23 16:40:48,410 - INFO - Starting simulation for period: 2019-08-26 to 2023-05-24
+2025-04-23 16:40:48,411 - INFO - Loading models, parameters, and feature data...
+2025-04-23 16:40:48,702 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\models\final_optimized_model.pkl
+2025-04-23 16:40:48,702 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:40:48,703 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\models\final_optimized_params_ir_lb4.json
+2025-04-23 16:40:48,730 - INFO - Converting features_df index to timezone-naive.
+2025-04-23 16:40:48,731 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\data\tqqq_features.csv: (2590, 46)
+2025-04-23 16:40:48,732 - INFO - Filtering data for the specified period...
+2025-04-23 16:40:48,734 - INFO - Data filtered: (943, 46) rows from 2019-08-26 04:00:00 to 2023-05-23 04:00:00
+2025-04-23 16:40:48,734 - INFO - Detecting volatility...
+2025-04-23 16:40:48,738 - INFO - 감지된 고변동성 날짜 수: 144
+2025-04-23 16:40:48,738 - INFO - 감지된 변동성 기간 수: 108
+2025-04-23 16:40:48,738 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-23 16:40:48,739 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-23 16:40:48,739 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-23 16:40:48,739 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-23 16:40:48,835 - INFO - Strategy implemented. Signals: TQQQ(422), Cash(497), SQQQ(24)
+2025-04-23 16:40:48,836 - INFO - Running backtest using function from: implement_strategy
+2025-04-23 16:40:48,837 - INFO - 전략 백테스팅 중...
+2025-04-23 16:40:48,842 - INFO - 
+백테스팅 결과:
+2025-04-23 16:40:48,843 - INFO - 테스트 기간: 2019-08-26 ~ 2023-05-23 (1366일, 3.74년)
+2025-04-23 16:40:48,843 - INFO - 초기 자본금: $10,000.00
+2025-04-23 16:40:48,843 - INFO - 최종 자본금 (TQQQ Buy & Hold): $21,141.45
+2025-04-23 16:40:48,844 - INFO - 최종 자본금 (전략): $267,911.62
+2025-04-23 16:40:48,844 - INFO - 총 수익률 (TQQQ Buy & Hold): 111.41%
+2025-04-23 16:40:48,844 - INFO - 총 수익률 (전략): 2579.12%
+2025-04-23 16:40:48,844 - INFO - 연간 수익률 (TQQQ Buy & Hold): 22.15%
+2025-04-23 16:40:48,845 - INFO - 연간 수익률 (전략): 140.75%
+2025-04-23 16:40:48,845 - INFO - 변동성 (TQQQ Buy & Hold): 81.50%
+2025-04-23 16:40:48,845 - INFO - 변동성 (전략): 34.77%
+2025-04-23 16:40:48,845 - INFO - 샤프 비율 (TQQQ Buy & Hold): 0.25
+2025-04-23 16:40:48,845 - INFO - 샤프 비율 (전략): 3.99
+2025-04-23 16:40:48,846 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -81.66%
+2025-04-23 16:40:48,846 - INFO - 최대 낙폭 (전략): -39.40%
+2025-04-23 16:40:48,846 - INFO - 총 거래 횟수: 324
+2025-04-23 16:40:48,847 - INFO - 총 수수료: $2,611.87
+2025-04-23 16:40:48,847 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-23 16:40:48,847 - INFO - Test Period: 2019-08-26 ~ 2023-05-23
+2025-04-23 16:40:48,847 - INFO - Days: 1,366
+2025-04-23 16:40:48,848 - INFO - Years: 3.74
+2025-04-23 16:40:48,848 - INFO - Initial Capital: 10,000
+2025-04-23 16:40:48,848 - INFO - Final Tqqq Capital: $21,141.45
+2025-04-23 16:40:48,848 - INFO - Final Strategy Capital: $267,911.62
+2025-04-23 16:40:48,848 - INFO - Tqqq Total Return: 111.41%
+2025-04-23 16:40:48,848 - INFO - Strategy Total Return: 2579.12%
+2025-04-23 16:40:48,849 - INFO - Tqqq Annual Return: 22.15%
+2025-04-23 16:40:48,849 - INFO - Strategy Annual Return: 140.75%
+2025-04-23 16:40:48,849 - INFO - Tqqq Volatility: 0.82
+2025-04-23 16:40:48,849 - INFO - Strategy Volatility: 0.35
+2025-04-23 16:40:48,849 - INFO - Tqqq Sharpe: 0.25
+2025-04-23 16:40:48,850 - INFO - Strategy Sharpe: 3.99
+2025-04-23 16:40:48,850 - INFO - Tqqq Max Drawdown: -81.66%
+2025-04-23 16:40:48,850 - INFO - Strategy Max Drawdown: -39.40%
+2025-04-23 16:40:48,850 - INFO - Trade Count: 324
+2025-04-23 16:40:48,851 - INFO - Total Fee: $2,611.87
+2025-04-23 16:40:48,851 - INFO - ---------------------------------
+2025-04-23 16:40:48,851 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-23 16:40:50,714 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\results_simulation\simulation_summary_2019-08-26_to_2023-05-24.txt
+2025-04-23 16:40:50,756 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\results_simulation\simulation_details_2019-08-26_to_2023-05-24.csv
+2025-04-23 16:40:50,756 - INFO - Simulation finished for period: 2019-08-26 to 2023-05-24
+2025-04-24 07:26:42,036 - INFO - Successfully imported functions from implement_strategy.
+2025-04-24 07:26:42,038 - INFO - Starting simulation for period: 2023-05-26 to 2024-05-24
+2025-04-24 07:26:42,038 - INFO - Loading models, parameters, and feature data...
+2025-04-24 07:26:42,293 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\models\final_optimized_model.pkl
+2025-04-24 07:26:42,294 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\models\final_optimized_params_ir_lb4.json
+2025-04-24 07:26:42,296 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\models\final_optimized_params_ir_lb4.json
+2025-04-24 07:26:42,331 - INFO - Converting features_df index to timezone-naive.
+2025-04-24 07:26:42,331 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\data\tqqq_features.csv: (2590, 46)
+2025-04-24 07:26:42,333 - INFO - Filtering data for the specified period...
+2025-04-24 07:26:42,334 - INFO - Data filtered: (250, 46) rows from 2023-05-26 04:00:00 to 2024-05-23 04:00:00
+2025-04-24 07:26:42,334 - INFO - Detecting volatility...
+2025-04-24 07:26:42,338 - INFO - 감지된 고변동성 날짜 수: 7
+2025-04-24 07:26:42,338 - INFO - 감지된 변동성 기간 수: 6
+2025-04-24 07:26:42,338 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-24 07:26:42,339 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-24 07:26:42,339 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-24 07:26:42,339 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-24 07:26:42,386 - INFO - Strategy implemented. Signals: TQQQ(200), Cash(44), SQQQ(6)
+2025-04-24 07:26:42,387 - INFO - Running backtest using function from: implement_strategy
+2025-04-24 07:26:42,387 - INFO - 전략 백테스팅 중...
+2025-04-24 07:26:42,392 - INFO - 
+백테스팅 결과:
+2025-04-24 07:26:42,392 - INFO - 테스트 기간: 2023-05-26 ~ 2024-05-23 (363일, 0.99년)
+2025-04-24 07:26:42,392 - INFO - 초기 자본금: $10,000.00
+2025-04-24 07:26:42,393 - INFO - 최종 자본금 (TQQQ Buy & Hold): $18,957.93
+2025-04-24 07:26:42,393 - INFO - 최종 자본금 (전략): $17,103.83
+2025-04-24 07:26:42,393 - INFO - 총 수익률 (TQQQ Buy & Hold): 89.58%
+2025-04-24 07:26:42,393 - INFO - 총 수익률 (전략): 71.04%
+2025-04-24 07:26:42,394 - INFO - 연간 수익률 (TQQQ Buy & Hold): 90.25%
+2025-04-24 07:26:42,394 - INFO - 연간 수익률 (전략): 71.54%
+2025-04-24 07:26:42,394 - INFO - 변동성 (TQQQ Buy & Hold): 47.27%
+2025-04-24 07:26:42,394 - INFO - 변동성 (전략): 42.08%
+2025-04-24 07:26:42,394 - INFO - 샤프 비율 (TQQQ Buy & Hold): 1.87
+2025-04-24 07:26:42,394 - INFO - 샤프 비율 (전략): 1.65
+2025-04-24 07:26:42,394 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -33.14%
+2025-04-24 07:26:42,395 - INFO - 최대 낙폭 (전략): -27.80%
+2025-04-24 07:26:42,395 - INFO - 총 거래 횟수: 62
+2025-04-24 07:26:42,395 - INFO - 총 수수료: $74.88
+2025-04-24 07:26:42,396 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-24 07:26:42,396 - INFO - Test Period: 2023-05-26 ~ 2024-05-23
+2025-04-24 07:26:42,396 - INFO - Days: 363
+2025-04-24 07:26:42,396 - INFO - Years: 0.99
+2025-04-24 07:26:42,396 - INFO - Initial Capital: 10,000
+2025-04-24 07:26:42,396 - INFO - Final Tqqq Capital: $18,957.93
+2025-04-24 07:26:42,397 - INFO - Final Strategy Capital: $17,103.83
+2025-04-24 07:26:42,397 - INFO - Tqqq Total Return: 89.58%
+2025-04-24 07:26:42,397 - INFO - Strategy Total Return: 71.04%
+2025-04-24 07:26:42,397 - INFO - Tqqq Annual Return: 90.25%
+2025-04-24 07:26:42,397 - INFO - Strategy Annual Return: 71.54%
+2025-04-24 07:26:42,397 - INFO - Tqqq Volatility: 0.47
+2025-04-24 07:26:42,397 - INFO - Strategy Volatility: 0.42
+2025-04-24 07:26:42,398 - INFO - Tqqq Sharpe: 1.87
+2025-04-24 07:26:42,398 - INFO - Strategy Sharpe: 1.65
+2025-04-24 07:26:42,398 - INFO - Tqqq Max Drawdown: -33.14%
+2025-04-24 07:26:42,398 - INFO - Strategy Max Drawdown: -27.80%
+2025-04-24 07:26:42,398 - INFO - Trade Count: 62
+2025-04-24 07:26:42,398 - INFO - Total Fee: $74.88
+2025-04-24 07:26:42,399 - INFO - ---------------------------------
+2025-04-24 07:26:42,399 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-24 07:26:43,864 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\results_simulation\simulation_summary_2023-05-26_to_2024-05-24.txt
+2025-04-24 07:26:43,877 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\results_simulation\simulation_details_2023-05-26_to_2024-05-24.csv
+2025-04-24 07:26:43,877 - INFO - Simulation finished for period: 2023-05-26 to 2024-05-24
+2025-04-24 07:27:09,036 - INFO - Successfully imported functions from implement_strategy.
+2025-04-24 07:27:09,039 - INFO - Starting simulation for period: 2023-05-26 to 2024-06-01
+2025-04-24 07:27:09,039 - INFO - Loading models, parameters, and feature data...
+2025-04-24 07:27:09,275 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\models\final_optimized_model.pkl
+2025-04-24 07:27:09,276 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\models\final_optimized_params_ir_lb4.json
+2025-04-24 07:27:09,277 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\models\final_optimized_params_ir_lb4.json
+2025-04-24 07:27:09,302 - INFO - Converting features_df index to timezone-naive.
+2025-04-24 07:27:09,303 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\data\tqqq_features.csv: (2590, 46)
+2025-04-24 07:27:09,304 - INFO - Filtering data for the specified period...
+2025-04-24 07:27:09,305 - INFO - Data filtered: (255, 46) rows from 2023-05-26 04:00:00 to 2024-05-31 04:00:00
+2025-04-24 07:27:09,305 - INFO - Detecting volatility...
+2025-04-24 07:27:09,309 - INFO - 감지된 고변동성 날짜 수: 7
+2025-04-24 07:27:09,309 - INFO - 감지된 변동성 기간 수: 6
+2025-04-24 07:27:09,309 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-24 07:27:09,310 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-24 07:27:09,310 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-24 07:27:09,310 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-24 07:27:09,363 - INFO - Strategy implemented. Signals: TQQQ(205), Cash(44), SQQQ(6)
+2025-04-24 07:27:09,363 - INFO - Running backtest using function from: implement_strategy
+2025-04-24 07:27:09,364 - INFO - 전략 백테스팅 중...
+2025-04-24 07:27:09,368 - INFO - 
+백테스팅 결과:
+2025-04-24 07:27:09,368 - INFO - 테스트 기간: 2023-05-26 ~ 2024-05-31 (371일, 1.02년)
+2025-04-24 07:27:09,369 - INFO - 초기 자본금: $10,000.00
+2025-04-24 07:27:09,369 - INFO - 최종 자본금 (TQQQ Buy & Hold): $18,316.81
+2025-04-24 07:27:09,369 - INFO - 최종 자본금 (전략): $16,525.41
+2025-04-24 07:27:09,370 - INFO - 총 수익률 (TQQQ Buy & Hold): 83.17%
+2025-04-24 07:27:09,370 - INFO - 총 수익률 (전략): 65.25%
+2025-04-24 07:27:09,370 - INFO - 연간 수익률 (TQQQ Buy & Hold): 81.38%
+2025-04-24 07:27:09,370 - INFO - 연간 수익률 (전략): 63.92%
+2025-04-24 07:27:09,370 - INFO - 변동성 (TQQQ Buy & Hold): 47.00%
+2025-04-24 07:27:09,371 - INFO - 변동성 (전략): 41.89%
+2025-04-24 07:27:09,371 - INFO - 샤프 비율 (TQQQ Buy & Hold): 1.69
+2025-04-24 07:27:09,371 - INFO - 샤프 비율 (전략): 1.48
+2025-04-24 07:27:09,371 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -33.14%
+2025-04-24 07:27:09,372 - INFO - 최대 낙폭 (전략): -27.80%
+2025-04-24 07:27:09,373 - INFO - 총 거래 횟수: 62
+2025-04-24 07:27:09,373 - INFO - 총 수수료: $74.88
+2025-04-24 07:27:09,373 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-24 07:27:09,374 - INFO - Test Period: 2023-05-26 ~ 2024-05-31
+2025-04-24 07:27:09,374 - INFO - Days: 371
+2025-04-24 07:27:09,374 - INFO - Years: 1.02
+2025-04-24 07:27:09,374 - INFO - Initial Capital: 10,000
+2025-04-24 07:27:09,374 - INFO - Final Tqqq Capital: $18,316.81
+2025-04-24 07:27:09,375 - INFO - Final Strategy Capital: $16,525.41
+2025-04-24 07:27:09,375 - INFO - Tqqq Total Return: 83.17%
+2025-04-24 07:27:09,375 - INFO - Strategy Total Return: 65.25%
+2025-04-24 07:27:09,375 - INFO - Tqqq Annual Return: 81.38%
+2025-04-24 07:27:09,375 - INFO - Strategy Annual Return: 63.92%
+2025-04-24 07:27:09,375 - INFO - Tqqq Volatility: 0.47
+2025-04-24 07:27:09,376 - INFO - Strategy Volatility: 0.42
+2025-04-24 07:27:09,376 - INFO - Tqqq Sharpe: 1.69
+2025-04-24 07:27:09,376 - INFO - Strategy Sharpe: 1.48
+2025-04-24 07:27:09,376 - INFO - Tqqq Max Drawdown: -33.14%
+2025-04-24 07:27:09,376 - INFO - Strategy Max Drawdown: -27.80%
+2025-04-24 07:27:09,376 - INFO - Trade Count: 62
+2025-04-24 07:27:09,376 - INFO - Total Fee: $74.88
+2025-04-24 07:27:09,377 - INFO - ---------------------------------
+2025-04-24 07:27:09,377 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-24 07:27:10,810 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\results_simulation\simulation_summary_2023-05-26_to_2024-06-01.txt
+2025-04-24 07:27:10,823 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\results_simulation\simulation_details_2023-05-26_to_2024-06-01.csv
+2025-04-24 07:27:10,824 - INFO - Simulation finished for period: 2023-05-26 to 2024-06-01
+2025-04-24 07:27:23,029 - INFO - Successfully imported functions from implement_strategy.
+2025-04-24 07:27:23,031 - INFO - Starting simulation for period: 2023-05-26 to 2024-08-01
+2025-04-24 07:27:23,031 - INFO - Loading models, parameters, and feature data...
+2025-04-24 07:27:23,289 - INFO - Loaded combined model data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\models\final_optimized_model.pkl
+2025-04-24 07:27:23,290 - INFO - Found IR+Lookback optimized parameters file: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\models\final_optimized_params_ir_lb4.json
+2025-04-24 07:27:23,290 - INFO - Loaded optimized parameters from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\models\final_optimized_params_ir_lb4.json
+2025-04-24 07:27:23,316 - INFO - Converting features_df index to timezone-naive.
+2025-04-24 07:27:23,316 - INFO - Loaded features data from C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\data\tqqq_features.csv: (2590, 46)
+2025-04-24 07:27:23,318 - INFO - Filtering data for the specified period...
+2025-04-24 07:27:23,319 - INFO - Data filtered: (296, 46) rows from 2023-05-26 04:00:00 to 2024-07-31 04:00:00
+2025-04-24 07:27:23,319 - INFO - Detecting volatility...
+2025-04-24 07:27:23,323 - INFO - 감지된 고변동성 날짜 수: 11
+2025-04-24 07:27:23,324 - INFO - 감지된 변동성 기간 수: 10
+2025-04-24 07:27:23,324 - INFO - Implementing switching strategy using loaded models and best parameters...
+2025-04-24 07:27:23,324 - INFO - TQQQ/SQQQ 전환 전략 구현 중 (최적 임계값 사용)...
+2025-04-24 07:27:23,324 - INFO - Using thresholds - Dir: 0.4000, BigMove: 0.6900, Switch: 0.3600
+2025-04-24 07:27:23,325 - INFO - Using Fee: 0.0001, MinHold: 2
+2025-04-24 07:27:23,375 - INFO - Strategy implemented. Signals: TQQQ(238), Cash(52), SQQQ(6)
+2025-04-24 07:27:23,376 - INFO - Running backtest using function from: implement_strategy
+2025-04-24 07:27:23,376 - INFO - 전략 백테스팅 중...
+2025-04-24 07:27:23,381 - INFO - 
+백테스팅 결과:
+2025-04-24 07:27:23,381 - INFO - 테스트 기간: 2023-05-26 ~ 2024-07-31 (432일, 1.18년)
+2025-04-24 07:27:23,381 - INFO - 초기 자본금: $10,000.00
+2025-04-24 07:27:23,382 - INFO - 최종 자본금 (TQQQ Buy & Hold): $18,450.93
+2025-04-24 07:27:23,382 - INFO - 최종 자본금 (전략): $18,795.89
+2025-04-24 07:27:23,382 - INFO - 총 수익률 (TQQQ Buy & Hold): 84.51%
+2025-04-24 07:27:23,383 - INFO - 총 수익률 (전략): 87.96%
+2025-04-24 07:27:23,383 - INFO - 연간 수익률 (TQQQ Buy & Hold): 67.79%
+2025-04-24 07:27:23,383 - INFO - 연간 수익률 (전략): 70.43%
+2025-04-24 07:27:23,383 - INFO - 변동성 (TQQQ Buy & Hold): 48.98%
+2025-04-24 07:27:23,383 - INFO - 변동성 (전략): 42.93%
+2025-04-24 07:27:23,384 - INFO - 샤프 비율 (TQQQ Buy & Hold): 1.34
+2025-04-24 07:27:23,384 - INFO - 샤프 비율 (전략): 1.59
+2025-04-24 07:27:23,384 - INFO - 최대 낙폭 (TQQQ Buy & Hold): -33.14%
+2025-04-24 07:27:23,384 - INFO - 최대 낙폭 (전략): -27.80%
+2025-04-24 07:27:23,384 - INFO - 총 거래 횟수: 72
+2025-04-24 07:27:23,385 - INFO - 총 수수료: $94.15
+2025-04-24 07:27:23,385 - INFO - 
+--- Simulation Backtest Results ---
+2025-04-24 07:27:23,386 - INFO - Test Period: 2023-05-26 ~ 2024-07-31
+2025-04-24 07:27:23,386 - INFO - Days: 432
+2025-04-24 07:27:23,386 - INFO - Years: 1.18
+2025-04-24 07:27:23,386 - INFO - Initial Capital: 10,000
+2025-04-24 07:27:23,387 - INFO - Final Tqqq Capital: $18,450.93
+2025-04-24 07:27:23,387 - INFO - Final Strategy Capital: $18,795.89
+2025-04-24 07:27:23,387 - INFO - Tqqq Total Return: 84.51%
+2025-04-24 07:27:23,387 - INFO - Strategy Total Return: 87.96%
+2025-04-24 07:27:23,387 - INFO - Tqqq Annual Return: 67.79%
+2025-04-24 07:27:23,387 - INFO - Strategy Annual Return: 70.43%
+2025-04-24 07:27:23,388 - INFO - Tqqq Volatility: 0.49
+2025-04-24 07:27:23,388 - INFO - Strategy Volatility: 0.43
+2025-04-24 07:27:23,388 - INFO - Tqqq Sharpe: 1.34
+2025-04-24 07:27:23,388 - INFO - Strategy Sharpe: 1.59
+2025-04-24 07:27:23,388 - INFO - Tqqq Max Drawdown: -33.14%
+2025-04-24 07:27:23,388 - INFO - Strategy Max Drawdown: -27.80%
+2025-04-24 07:27:23,388 - INFO - Trade Count: 72
+2025-04-24 07:27:23,389 - INFO - Total Fee: $94.15
+2025-04-24 07:27:23,389 - INFO - ---------------------------------
+2025-04-24 07:27:23,389 - INFO - Generating and saving visualizations to 'results_simulation' directory...
+2025-04-24 07:27:24,934 - INFO - Performance summary saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\results_simulation\simulation_summary_2023-05-26_to_2024-08-01.txt
+2025-04-24 07:27:24,950 - INFO - Detailed simulation results saved to: C:\Users\tpdud\code\TQQQ_manus_rollingexpend_지표변경_평가기간변경_최종_simultest_진짜최종\results_simulation\simulation_details_2023-05-26_to_2024-08-01.csv
+2025-04-24 07:27:24,950 - INFO - Simulation finished for period: 2023-05-26 to 2024-08-01
